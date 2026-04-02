@@ -1,0 +1,1388 @@
+team_name,ground_name,matches_played_,wins,matches_played
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0
+Royal College XI,SSC Cricket Ground,,7,10.0
+Royal College XI,NCC Cricket Ground,,5,8.0
+Royal College XI,Colombo Colts Ground,,4,7.0
+Royal College XI,Colombo City Cricket Park,,3,6.0
+Royal College XI,P Sara Oval Ground,,3,6.0
+Royal College XI,Bloomfield Cricket Ground,,2,5.0
+Royal College XI,De Soysa Stadium,,2,5.0
+Royal College XI,Panadura Public Ground,,1,4.0
+St. Joseph's College XI,SSC Cricket Ground,,7,10.0
+St. Joseph's College XI,NCC Cricket Ground,,4,8.0
+St. Joseph's College XI,Colombo City Cricket Park,,3,7.0
+St. Joseph's College XI,Colombo Colts Ground,,2,6.0
+St. Joseph's College XI,P Sara Oval Ground,,3,7.0
+St. Joseph's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Joseph's College XI,De Soysa Stadium,,2,6.0
+Ananda College XI,SSC Cricket Ground,,5,9.0
+Ananda College XI,NCC Cricket Ground,,3,7.0
+Ananda College XI,Colombo Colts Ground,,4,8.0
+Ananda College XI,Colombo City Cricket Park,,3,7.0
+Ananda College XI,P Sara Oval Ground,,3,7.0
+Ananda College XI,Bloomfield Cricket Ground,,2,6.0
+Ananda College XI,De Soysa Stadium,,2,5.0
+Ananda College XI,Panadura Public Ground,,1,4.0
+Nalanda College XI,SSC Cricket Ground,,4,8.0
+Nalanda College XI,NCC Cricket Ground,,3,7.0
+Nalanda College XI,Colombo Colts Ground,,5,9.0
+Nalanda College XI,Colombo City Cricket Park,,2,6.0
+Nalanda College XI,P Sara Oval Ground,,3,7.0
+Nalanda College XI,Bloomfield Cricket Ground,,2,6.0
+Nalanda College XI,De Soysa Stadium,,2,5.0
+St. Peter's College XI,SSC Cricket Ground,,3,7.0
+St. Peter's College XI,NCC Cricket Ground,,2,6.0
+St. Peter's College XI,Colombo Colts Ground,,4,8.0
+St. Peter's College XI,Colombo City Cricket Park,,3,7.0
+St. Peter's College XI,Bloomfield Cricket Ground,,2,6.0
+St. Peter's College XI,P Sara Oval Ground,,2,6.0
+Colombo CC,SSC Cricket Ground,,9,12.0
+Colombo CC,NCC Cricket Ground,,7,10.0
+Colombo CC,Colombo Colts Ground,,6,9.0
+Colombo CC,P Sara Oval Ground,,5,8.0
+Colombo CC,Bloomfield Cricket Ground,,4,7.0
+Colombo CC,De Soysa Stadium,,5,8.0
+Colombo CC,Panadura Public Ground,,3,7.0
+Colombo CC,Kalutara Public Ground,,2,6.0
+Sinhalese SC,SSC Cricket Ground,,12,15.0
+Sinhalese SC,NCC Cricket Ground,,8,12.0
+Sinhalese SC,Colombo Colts Ground,,7,10.0
+Sinhalese SC,P Sara Oval Ground,,6,9.0
+Sinhalese SC,Bloomfield Cricket Ground,,5,8.0
+Sinhalese SC,De Soysa Stadium,,6,9.0
+Sinhalese SC,Panadura Public Ground,,4,8.0
+Sinhalese SC,Kalutara Public Ground,,3,7.0
+NCC Club,NCC Cricket Ground,,10,14.0
+NCC Club,SSC Cricket Ground,,6,10.0
+NCC Club,Colombo Colts Ground,,5,9.0
+NCC Club,P Sara Oval Ground,,5,9.0
+NCC Club,Bloomfield Cricket Ground,,4,8.0
+NCC Club,De Soysa Stadium,,3,7.0
+NCC Club,Panadura Public Ground,,2,6.0
+Moratuwa SC,De Soysa Stadium,,7,10.0
+Moratuwa SC,Moratuwa University Ground,,3,6.0
+Moratuwa SC,Kalutara Public Ground,,4,8.0
+Moratuwa SC,Panadura Public Ground,,3,7.0
+Moratuwa SC,SSC Cricket Ground,,3,6.0
+Moratuwa SC,NCC Cricket Ground,,2,5.0
+Moratuwa SC,Colombo Colts Ground,,2,5.0
+Panadura SC,Panadura Public Ground,,6,10.0
+Panadura SC,Kalutara Public Ground,,3,8.0
+Panadura SC,De Soysa Stadium,,3,7.0
+Panadura SC,SSC Cricket Ground,,2,6.0
+Panadura SC,NCC Cricket Ground,,1,5.0
+Panadura SC,Colombo Colts Ground,,2,5.0
+Panadura SC,P Sara Oval Ground,,2,6.0

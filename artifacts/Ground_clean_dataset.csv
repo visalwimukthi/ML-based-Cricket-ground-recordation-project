@@ -1,0 +1,1039 @@
+Unnamed: 0,Ground Name,City,District,Province,Ground Type,Pitch,Length,Width,Lights,Parking,Washrooms,Pavilion,Scoreboard,Rooms,Parking Cap.,Price (LKR),Rating
+1.0,Ambalangoda Esplanade,Ambalangoda,Galle,Southern,Public,turf,137.0,149.0,Yes,Yes,Yes,Yes,Yes,2.0,288.0,162417.0,5.0
+2.0,Ambalangoda High School Ground,Ambalangoda,Galle,Southern,School,matting,100.0,104.0,No,Yes,Yes,Yes,No,2.0,27.0,26760.0,3.0
+3.0,Ambalangoda Oval,Ambalangoda,Galle,Southern,Public,turf,135.0,134.0,Yes,Yes,Yes,Yes,Yes,2.0,268.0,147946.0,4.0
+4.0,Ambalangoda Playground,Ambalangoda,Galle,Southern,Public,matting,112.0,105.0,No,Yes,Yes,No,Yes,1.0,26.0,7371.0,2.0
+5.0,Ambalangoda Public Ground,Ambalangoda,Galle,Southern,Public,matting,121.0,106.0,No,Yes,Yes,No,Yes,1.0,29.0,11911.0,3.0
+6.0,Ambalangoda Sports Club Ground,Ambalangoda,Galle,Southern,Club,turf,146.0,148.0,Yes,Yes,Yes,Yes,Yes,2.0,132.0,169204.0,5.0
+7.0,Ambalangoda Urban Council Ground,Ambalangoda,Galle,Southern,Public,matting,127.0,116.0,No,Yes,Yes,No,Yes,1.0,24.0,12608.0,3.0
+8.0,Ambepussa Army Ground,Ambepussa,Kegalle,Sabaragamuwa,Public,matting,124.0,109.0,No,Yes,Yes,No,Yes,1.0,48.0,15554.0,3.0
+9.0,Ambepussa District Ground,Ambepussa,Kegalle,Sabaragamuwa,Public,matting,126.0,117.0,No,Yes,Yes,No,Yes,1.0,15.0,11865.0,3.0
+10.0,Ambepussa Esplanade,Ambepussa,Kegalle,Sabaragamuwa,Public,matting,100.0,111.0,No,Yes,Yes,No,Yes,1.0,29.0,19796.0,2.0
+11.0,Ambepussa Playground,Ambepussa,Kegalle,Sabaragamuwa,Public,matting,101.0,107.0,No,Yes,Yes,No,Yes,1.0,34.0,12516.0,3.0
+12.0,Ambepussa Sports Club Ground,Ambepussa,Kegalle,Sabaragamuwa,Club,matting,121.0,102.0,No,Yes,Yes,Yes,Yes,2.0,64.0,33978.0,3.0
+13.0,Ambepussa Urban Council Ground,Ambepussa,Kegalle,Sabaragamuwa,Public,matting,105.0,90.0,No,Yes,Yes,No,Yes,1.0,21.0,10727.0,2.0
+14.0,Ampara Athletic Ground,Ampara,Ampara,Eastern,Private,cement,84.0,83.0,No,Yes,Yes,No,Yes,0.0,33.0,4021.0,1.0
+15.0,Ampara Central College Ground,Ampara,Ampara,Eastern,School,matting,127.0,93.0,No,Yes,Yes,Yes,No,2.0,70.0,41050.0,3.0
+16.0,Ampara College Ground,Ampara,Ampara,Eastern,School,matting,121.0,105.0,Yes,Yes,Yes,Yes,Yes,2.0,25.0,17094.0,3.0
+17.0,Ampara Cricket Club Ground,Ampara,Ampara,Eastern,Club,turf,130.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,123.0,138083.0,4.0
+18.0,Ampara District Ground,Ampara,Ampara,Eastern,Public,matting,116.0,106.0,No,Yes,Yes,No,Yes,1.0,15.0,8036.0,3.0
+19.0,Ampara Esplanade,Ampara,Ampara,Eastern,Public,turf,134.0,149.0,Yes,Yes,Yes,Yes,Yes,2.0,148.0,117973.0,4.0
+20.0,Ampara High School Ground,Ampara,Ampara,Eastern,School,matting,114.0,108.0,No,Yes,Yes,Yes,No,2.0,37.0,47112.0,3.0
+21.0,Ampara Municipal Ground,Ampara,Ampara,Eastern,Public,matting,108.0,99.0,No,Yes,Yes,No,Yes,1.0,17.0,7972.0,2.0
+22.0,Ampara Public Ground,Ampara,Ampara,Eastern,Public,matting,109.0,113.0,No,Yes,Yes,No,Yes,1.0,14.0,17192.0,3.0
+23.0,Ampara Sports Club Ground,Ampara,Ampara,Eastern,Club,matting,127.0,95.0,Yes,Yes,Yes,Yes,Yes,2.0,71.0,35054.0,4.0
+24.0,Ampara Stadium,Ampara,Ampara,Eastern,Public,turf,148.0,141.0,Yes,Yes,Yes,Yes,Yes,2.0,277.0,167785.0,5.0
+25.0,Ampara Urban Council Ground,Ampara,Ampara,Eastern,Public,matting,116.0,112.0,No,Yes,Yes,No,Yes,1.0,12.0,8264.0,2.0
+26.0,Anuradhapura Central College Ground,Anuradhapura,Anuradhapura,North Central,School,matting,110.0,93.0,No,Yes,Yes,Yes,No,2.0,42.0,33190.0,3.0
+27.0,Anuradhapura Public Ground,Anuradhapura,Anuradhapura,North Central,Public,matting,125.0,104.0,No,Yes,Yes,No,Yes,1.0,17.0,15497.0,2.0
+28.0,Anuradhapura Sports Club Ground,Anuradhapura,Anuradhapura,North Central,Club,turf,140.0,147.0,Yes,Yes,Yes,Yes,Yes,2.0,238.0,167281.0,5.0
+29.0,Anuradhapura Stadium,Anuradhapura,Anuradhapura,North Central,Public,turf,149.0,146.0,Yes,Yes,Yes,Yes,Yes,2.0,285.0,175809.0,5.0
+30.0,Anuradhapura Urban Council Ground,Anuradhapura,Anuradhapura,North Central,Public,matting,117.0,109.0,No,Yes,Yes,No,Yes,1.0,39.0,17585.0,3.0
+31.0,Athurugiriya Ground,Athurugiriya,Colombo,Western,Public,matting,108.0,112.0,No,Yes,Yes,No,Yes,1.0,17.0,3804.0,2.0
+32.0,Athurugiriya Sports Ground,Athurugiriya,Colombo,Western,Public,matting,128.0,99.0,No,Yes,Yes,No,Yes,1.0,10.0,9848.0,3.0
+33.0,Baddegama Christ Church College Grounds,Baddegama,Galle,Southern,School,matting,119.0,103.0,No,Yes,Yes,Yes,No,2.0,26.0,37605.0,3.0
+34.0,Baddegama Public Ground,Baddegama,Galle,Southern,Public,matting,125.0,121.0,No,Yes,Yes,No,Yes,1.0,13.0,4949.0,2.0
+35.0,Badulla Cricket Ground,Badulla,Badulla,Uva,Public,matting,111.0,115.0,No,Yes,Yes,No,Yes,1.0,15.0,17618.0,3.0
+36.0,Badulla Esplanade,Badulla,Badulla,Uva,Public,turf,131.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,177.0,194669.0,5.0
+37.0,Badulla Sports Club Ground,Badulla,Badulla,Uva,Club,turf,132.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,172.0,112799.0,5.0
+38.0,Badulla Urban Council Ground,Badulla,Badulla,Uva,Public,matting,121.0,98.0,No,Yes,Yes,No,Yes,1.0,32.0,11623.0,3.0
+39.0,Bakamuna Atharagallewa MV Ground,Bakamuna,Polonnaruwa,North Central,School,matting,118.0,101.0,No,Yes,Yes,Yes,No,2.0,33.0,17164.0,3.0
+40.0,Bakamuna Mahaweli Ground,Bakamuna,Polonnaruwa,North Central,Public,matting,128.0,93.0,No,Yes,Yes,No,Yes,1.0,11.0,17934.0,3.0
+41.0,Balangoda Ananda Maithre College Grounds,Balangoda,Ratnapura,Sabaragamuwa,School,matting,114.0,112.0,No,Yes,Yes,Yes,No,2.0,38.0,40647.0,3.0
+42.0,Balangoda District Ground,Balangoda,Ratnapura,Sabaragamuwa,Public,matting,119.0,119.0,No,Yes,Yes,No,Yes,1.0,10.0,13464.0,2.0
+43.0,Balangoda Public Ground,Balangoda,Ratnapura,Sabaragamuwa,Public,matting,108.0,102.0,No,Yes,Yes,No,Yes,1.0,19.0,6702.0,2.0
+44.0,Balangoda Sports Club Ground,Balangoda,Ratnapura,Sabaragamuwa,Club,turf,139.0,146.0,Yes,Yes,Yes,Yes,Yes,2.0,148.0,150303.0,5.0
+45.0,Balapitiya Ground,Balapitiya,Galle,Southern,Public,matting,104.0,114.0,No,Yes,Yes,No,Yes,1.0,21.0,7531.0,2.0
+46.0,Balapitiya Teachers Training College Ground,Balapitiya,Galle,Southern,School,matting,120.0,96.0,No,Yes,Yes,Yes,No,2.0,23.0,15511.0,3.0
+47.0,Bandaragama Grounds,Bandaragama,Kalutara,Western,Public,matting,107.0,118.0,No,Yes,Yes,No,Yes,1.0,11.0,4189.0,2.0
+48.0,Bandaragama Sports Club Ground,Bandaragama,Kalutara,Western,Club,matting,130.0,107.0,No,Yes,Yes,Yes,Yes,2.0,69.0,46784.0,4.0
+49.0,Bandaragama Urban Council Ground,Bandaragama,Kalutara,Western,Public,matting,108.0,114.0,No,Yes,Yes,No,Yes,1.0,14.0,19825.0,3.0
+50.0,Batticaloa Municipal Ground,Batticaloa,Batticaloa,Eastern,Public,matting,111.0,118.0,No,Yes,Yes,No,Yes,1.0,15.0,5706.0,2.0
+51.0,Batticaloa Public Ground,Batticaloa,Batticaloa,Eastern,Public,matting,100.0,96.0,No,Yes,Yes,No,Yes,1.0,19.0,8220.0,3.0
+52.0,Batticaloa Shivananda School Ground,Batticaloa,Batticaloa,Eastern,School,matting,128.0,100.0,No,Yes,Yes,Yes,No,2.0,25.0,40528.0,3.0
+53.0,Batticaloa Sports Club Ground,Batticaloa,Batticaloa,Eastern,Club,matting,125.0,100.0,No,Yes,Yes,Yes,Yes,2.0,23.0,34456.0,4.0
+54.0,Batticaloa Stadium,Batticaloa,Batticaloa,Eastern,Public,turf,144.0,148.0,Yes,Yes,Yes,Yes,Yes,2.0,230.0,126683.0,5.0
+55.0,Batticaloa Urban Council Ground,Batticaloa,Batticaloa,Eastern,Public,matting,105.0,119.0,No,Yes,Yes,No,Yes,1.0,13.0,15199.0,3.0
+56.0,Bentota Gamini College Play Ground,Bentota,Galle,Southern,School,matting,116.0,100.0,No,Yes,Yes,Yes,No,2.0,20.0,19755.0,3.0
+57.0,Bentota Public Ground,Bentota,Galle,Southern,Public,matting,119.0,97.0,No,Yes,Yes,No,Yes,1.0,28.0,5299.0,2.0
+58.0,Bentota Sports Ground,Bentota,Galle,Southern,Public,matting,112.0,118.0,No,Yes,Yes,No,Yes,1.0,30.0,16713.0,3.0
+59.0,Bogambara Recreation Grounds,Kandy,Kandy,Central,Public,turf,142.0,145.0,Yes,Yes,Yes,Yes,Yes,2.0,238.0,99787.0,5.0
+60.0,Boralesgamuwa Public Ground,Colombo,Colombo,Western,Public,matting,124.0,117.0,No,Yes,Yes,No,Yes,1.0,18.0,13346.0,3.0
+61.0,Borella Campbell Park,Borella,Colombo,Western,Public,turf,135.0,144.0,Yes,Yes,Yes,Yes,Yes,2.0,250.0,186205.0,5.0
+62.0,Bulathsinhala Olympic Sky Country Club Ground,Bulathsinhala,Kalutara,Western,Club,matting,122.0,98.0,No,Yes,Yes,Yes,Yes,2.0,52.0,19619.0,4.0
+63.0,Bulathsinhala Public Ground,Bulathsinhala,Kalutara,Western,Public,matting,100.0,96.0,No,Yes,Yes,No,Yes,1.0,11.0,17652.0,3.0
+64.0,Buttala Pelawatta Grounds,Buttala,Monaragala,Uva,Public,matting,123.0,117.0,No,Yes,Yes,No,Yes,1.0,16.0,18264.0,3.0
+65.0,Buttala Public Ground,Buttala,Monaragala,Uva,Public,matting,111.0,98.0,No,Yes,Yes,No,Yes,1.0,12.0,16404.0,2.0
+66.0,Central College Ground,Galagedara,Kandy,Central,School,matting,122.0,93.0,No,Yes,Yes,Yes,No,2.0,41.0,44789.0,3.0
+67.0,Chenkalady Eastern University Ground,Chenkalady,Batticaloa,Eastern,School,matting,108.0,100.0,No,Yes,Yes,Yes,No,2.0,21.0,37602.0,3.0
+68.0,Chenkalady Public Ground,Chenkalady,Batticaloa,Eastern,Public,matting,110.0,96.0,No,Yes,Yes,No,Yes,1.0,19.0,12737.0,2.0
+69.0,Chilaw District Ground,Chilaw,Puttalam,North Western,Public,matting,122.0,109.0,No,Yes,Yes,No,Yes,1.0,18.0,11026.0,3.0
+70.0,Chilaw Esplanade,Chilaw,Puttalam,North Western,Public,turf,148.0,141.0,Yes,Yes,Yes,Yes,Yes,2.0,161.0,115365.0,5.0
+71.0,Chilaw Stadium,Chilaw,Puttalam,North Western,Public,turf,146.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,136.0,177810.0,5.0
+72.0,Chilaw Urban Council Ground,Chilaw,Puttalam,North Western,Public,matting,124.0,93.0,No,Yes,Yes,No,Yes,1.0,20.0,17781.0,3.0
+73.0,Chilaw Marians Cricket Club Ground,Katunayake,Gampaha,Western,Club,turf,142.0,145.0,Yes,Yes,Yes,Yes,Yes,2.0,131.0,159025.0,5.0
+74.0,Colombo (Galle Face) Green,Colombo,Colombo,Western,Public,matting,120.0,104.0,No,Yes,Yes,No,Yes,1.0,20.0,13861.0,2.0
+75.0,Colombo Ace Capital Cricket Club Ground,Colombo,Colombo,Western,Club,turf,136.0,147.0,Yes,Yes,Yes,Yes,Yes,2.0,127.0,153892.0,5.0
+76.0,Colombo Air Force Ground,Colombo,Colombo,Western,Club,turf,133.0,144.0,Yes,Yes,Yes,Yes,Yes,2.0,141.0,184781.0,5.0
+77.0,Colombo Ananda College Ground,Colombo,Colombo,Western,School,turf,132.0,133.0,Yes,Yes,Yes,Yes,Yes,2.0,55.0,81950.0,5.0
+78.0,Colombo Barrack Square Grounds,Colombo,Colombo,Western,Public,matting,129.0,112.0,No,Yes,Yes,No,Yes,1.0,19.0,19979.0,3.0
+79.0,Colombo Bloomfield Cricket & Athletic Club Ground,Colombo,Colombo,Western,Club,turf,134.0,141.0,Yes,Yes,Yes,Yes,Yes,2.0,101.0,146554.0,5.0
+80.0,Colombo Burgher Recreation Club Ground,Colombo,Colombo,Western,Club,turf,147.0,140.0,Yes,Yes,Yes,Yes,Yes,2.0,266.0,170999.0,5.0
+81.0,Colombo Colts Cricket Club Ground,Colombo,Colombo,Western,Club,turf,140.0,143.0,Yes,Yes,Yes,Yes,Yes,2.0,143.0,158279.0,5.0
+82.0,Colombo Cricket Club Ground,Colombo,Colombo,Western,Club,turf,145.0,146.0,Yes,Yes,Yes,Yes,Yes,2.0,237.0,186742.0,5.0
+83.0,Colombo DS Senanayake College Ground,Colombo,Colombo,Western,School,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,2.0,77.0,134785.0,5.0
+84.0,Colombo Defence Ground,Ratmalana,Colombo,Western,Public,matting,106.0,118.0,No,Yes,Yes,No,Yes,1.0,14.0,18579.0,3.0
+85.0,Colombo Galle Face Green,Colombo,Colombo,Western,Public,matting,123.0,119.0,No,Yes,Yes,No,Yes,1.0,11.0,14614.0,3.0
+86.0,Colombo Health Ground,Colombo,Colombo,Western,Public,matting,122.0,110.0,No,Yes,Yes,No,Yes,1.0,17.0,10298.0,2.0
+87.0,Colombo Malay Cricket Club Ground,Colombo,Colombo,Western,Club,turf,132.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,119.0,108073.0,5.0
+88.0,Colombo Moors Sports Club Ground,Colombo,Colombo,Western,Club,turf,131.0,134.0,Yes,Yes,Yes,Yes,Yes,2.0,163.0,111562.0,4.0
+89.0,Colombo Municipal Council Ground,Kotte,Colombo,Western,Public,matting,121.0,118.0,No,Yes,Yes,No,Yes,1.0,15.0,19586.0,3.0
+90.0,Colombo Nalanda College Ground,Colombo,Colombo,Western,School,turf,137.0,130.0,Yes,Yes,Yes,Yes,Yes,2.0,84.0,100085.0,5.0
+91.0,Colombo Nondescripts Cricket Club Ground,Colombo,Colombo,Western,Club,turf,148.0,148.0,Yes,Yes,Yes,Yes,Yes,2.0,116.0,176459.0,5.0
+92.0,Colombo P Sara Oval,Colombo,Colombo,Western,Public,turf,144.0,144.0,Yes,Yes,Yes,Yes,Yes,2.0,250.0,185582.0,5.0
+93.0,Colombo Police Park Ground,Colombo,Colombo,Western,Public,turf,141.0,142.0,Yes,Yes,Yes,Yes,Yes,2.0,193.0,197470.0,5.0
+94.0,Colombo Railway Ground,Colombo,Colombo,Western,Public,matting,124.0,119.0,No,Yes,Yes,No,Yes,1.0,28.0,18770.0,3.0
+95.0,Colombo R Premadasa Stadium,Colombo,Colombo,Western,Public,turf,149.0,150.0,Yes,Yes,Yes,Yes,Yes,2.0,219.0,184888.0,5.0
+96.0,Colombo Racquet Court,Colombo,Colombo,Western,Public,matting,108.0,118.0,No,Yes,Yes,No,Yes,1.0,25.0,19843.0,3.0
+97.0,Colombo Sinhalese Sports Club Ground,Colombo,Colombo,Western,Club,turf,143.0,147.0,Yes,Yes,Yes,Yes,Yes,2.0,155.0,183654.0,5.0
+98.0,Colombo University Ground,Colombo,Colombo,Western,School,matting,115.0,108.0,No,Yes,Yes,Yes,No,2.0,31.0,28479.0,3.0
+99.0,Colombo Vihara Mahadevi Park,Colombo,Colombo,Western,Public,matting,129.0,108.0,No,Yes,Yes,No,Yes,1.0,22.0,8453.0,3.0
+100.0,Colombo Wesley College Ground,Colombo,Colombo,Western,School,turf,130.0,143.0,Yes,Yes,Yes,Yes,Yes,2.0,79.0,121194.0,5.0
+101.0,Dambulla Rangiri Dambulla International Stadium,Dambulla,Matale,Central,Public,turf,148.0,148.0,Yes,Yes,Yes,Yes,Yes,2.0,293.0,135187.0,5.0
+102.0,Darrawella Cricket Club Ground,Darrawella,Nuwara Eliya,Central,Club,turf,139.0,146.0,Yes,Yes,Yes,Yes,Yes,2.0,151.0,131567.0,5.0
+103.0,Debarawewa MMV Ground,Debarawewa,Hambantota,Southern,School,matting,117.0,94.0,No,Yes,Yes,Yes,No,2.0,35.0,21452.0,3.0
+104.0,Debarawewa Public Ground,Debarawewa,Hambantota,Southern,Public,matting,128.0,106.0,No,Yes,Yes,No,Yes,1.0,13.0,5639.0,2.0
+105.0,Dehiwala S de S Jayasinghe College Ground,Dehiwala,Colombo,Western,School,matting,113.0,100.0,No,Yes,Yes,Yes,No,2.0,21.0,22909.0,3.0
+106.0,Dehiwala Shasthrananda College Ground,Dehiwala,Colombo,Western,School,matting,115.0,101.0,No,Yes,Yes,Yes,No,2.0,48.0,20181.0,3.0
+107.0,Dharmadutha College Ground,Badulla,Badulla,Uva,School,matting,117.0,101.0,No,Yes,Yes,Yes,No,2.0,45.0,21080.0,3.0
+108.0,Dharmaraja College Ground,Kandy,Kandy,Central,School,turf,130.0,140.0,Yes,Yes,Yes,Yes,Yes,2.0,62.0,110050.0,4.0
+109.0,Diyatalawa Garrison Ground,Diyatalawa,Badulla,Uva,Public,matting,112.0,115.0,No,Yes,Yes,No,Yes,1.0,12.0,17003.0,2.0
+110.0,Dombagoda Ordnance Corps Intl Cricket Stadium,Dombagoda,Kalutara,Western,Public,turf,140.0,149.0,Yes,Yes,Yes,Yes,Yes,2.0,178.0,177564.0,5.0
+111.0,Dombagoda Seelarathana School Ground,Dombagoda,Kalutara,Western,School,matting,118.0,100.0,No,Yes,Yes,Yes,No,2.0,42.0,46078.0,3.0
+112.0,Eppawala Ground,Eppawala,Anuradhapura,North Central,Public,matting,114.0,120.0,No,Yes,Yes,No,Yes,1.0,16.0,18617.0,3.0
+113.0,Eppawala Siddhartha College Ground,Eppawala,Anuradhapura,North Central,School,matting,110.0,102.0,No,Yes,Yes,Yes,No,2.0,22.0,30706.0,3.0
+114.0,Erhiliwewa School Ground,Wellawaya,Monaragala,Uva,School,matting,125.0,95.0,No,Yes,Yes,Yes,No,2.0,37.0,20534.0,3.0
+115.0,FTZ Sports Complex (BOI),Katunayake,Gampaha,Western,Public,turf,137.0,148.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,126348.0,5.0
+116.0,Galagedara Sarath Amunugama Grounds,Galagedara,Kandy,Central,Public,matting,126.0,104.0,No,Yes,Yes,No,Yes,1.0,28.0,8326.0,3.0
+117.0,Galle International Stadium,Galle,Galle,Southern,Public,turf,145.0,149.0,Yes,Yes,Yes,Yes,Yes,2.0,271.0,132661.0,5.0
+118.0,Galle Municipal Ground,Galle,Galle,Southern,Public,matting,124.0,100.0,No,Yes,Yes,No,Yes,1.0,13.0,6655.0,2.0
+119.0,Galle Sports Club Ground,Galle,Galle,Southern,Club,turf,141.0,150.0,Yes,Yes,Yes,Yes,Yes,2.0,197.0,148914.0,5.0
+120.0,Galle Urban Council Ground,Galle,Galle,Southern,Public,matting,129.0,107.0,No,Yes,Yes,No,Yes,1.0,19.0,10365.0,3.0
+121.0,Galore Stadium,Kandy,Kandy,Central,Public,turf,146.0,142.0,Yes,Yes,Yes,Yes,Yes,2.0,257.0,182202.0,5.0
+122.0,Gamini College Play Ground,Bentota,Galle,Southern,School,matting,115.0,100.0,No,Yes,Yes,Yes,No,2.0,31.0,32736.0,3.0
+123.0,Gampaha Bandaranayake College Ground,Gampaha,Gampaha,Western,School,matting,127.0,113.0,No,Yes,Yes,Yes,No,2.0,46.0,48377.0,3.0
+124.0,Gampaha District Ground,Gampaha,Gampaha,Western,Public,matting,111.0,114.0,No,Yes,Yes,No,Yes,1.0,13.0,5589.0,2.0
+125.0,Gampaha Esplanade,Gampaha,Gampaha,Western,Public,turf,139.0,148.0,Yes,Yes,Yes,Yes,Yes,2.0,193.0,178150.0,5.0
+126.0,Gampaha Oval,Gampaha,Gampaha,Western,Public,turf,146.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,136.0,146666.0,4.0
+127.0,Gampaha Public Ground,Gampaha,Gampaha,Western,Public,matting,108.0,120.0,No,Yes,Yes,No,Yes,1.0,25.0,15427.0,3.0
+128.0,Gampaha Sports Club Ground,Gampaha,Gampaha,Western,Club,turf,140.0,146.0,Yes,Yes,Yes,Yes,Yes,2.0,115.0,192125.0,5.0
+129.0,Gampaha Urban Council Ground,Gampaha,Gampaha,Western,Public,matting,121.0,113.0,No,Yes,Yes,No,Yes,1.0,18.0,14439.0,3.0
+130.0,General Balagalle Cricket Stadium,Hikkaduwa,Galle,Southern,Public,turf,140.0,142.0,Yes,Yes,Yes,Yes,Yes,2.0,115.0,172125.0,5.0
+131.0,General Ballagalla Stadium,Karandeniya,Galle,Southern,Public,turf,143.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,192.0,119619.0,4.0
+132.0,Giriulla Wickramashila Grounds,Giriulla,Kurunegala,North Western,School,matting,111.0,110.0,No,Yes,Yes,Yes,No,2.0,29.0,27998.0,3.0
+133.0,Habarana Secondary School Ground,Habarana,Anuradhapura,North Central,School,matting,112.0,96.0,No,Yes,Yes,Yes,No,2.0,20.0,30298.0,3.0
+134.0,Hambantota District Sports Ground,Hambantota,Hambantota,Southern,Public,matting,125.0,119.0,No,Yes,Yes,No,Yes,1.0,18.0,4864.0,2.0
+135.0,Hambantota Mahinda Rajapaksa Intl Cricket Stadium,Hambantota,Hambantota,Southern,Public,turf,150.0,148.0,Yes,Yes,Yes,Yes,Yes,2.0,209.0,195482.0,5.0
+136.0,Hambantota Municipal Council Ground,Hambantota,Hambantota,Southern,Public,matting,115.0,98.0,No,Yes,Yes,No,Yes,1.0,16.0,5864.0,3.0
+137.0,Hanwella Public Ground,Colombo,Colombo,Western,Public,matting,103.0,99.0,No,Yes,Yes,No,Yes,1.0,26.0,17720.0,3.0
+138.0,Harendra Koraya Ground,Chilaw,Puttalam,North Western,Public,matting,116.0,119.0,No,Yes,Yes,No,Yes,1.0,12.0,11965.0,3.0
+139.0,Hatton Darrawella Ground,Darrawella,Nuwara Eliya,Central,Club,turf,140.0,147.0,Yes,Yes,Yes,Yes,Yes,2.0,146.0,118844.0,5.0
+140.0,Havelock Park,Colombo,Colombo,Western,Public,matting,118.0,108.0,No,Yes,Yes,No,Yes,1.0,29.0,16292.0,3.0
+141.0,Henegama Central College Ground,Henegama,Gampaha,Western,School,matting,113.0,108.0,No,Yes,Yes,Yes,No,2.0,20.0,36630.0,3.0
+142.0,Henegama Public Ground,Henegama,Gampaha,Western,Public,matting,107.0,119.0,No,Yes,Yes,No,Yes,1.0,12.0,3650.0,2.0
+143.0,Hingurakgoda Polonnaruwa National Cricket Ground,Hingurakgoda,Polonnaruwa,North Central,Public,turf,143.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,108.0,178477.0,5.0
+144.0,Hingurakgoda Public Ground,Hingurakgoda,Polonnaruwa,North Central,Public,matting,108.0,113.0,No,Yes,Yes,No,Yes,1.0,26.0,11128.0,3.0
+145.0,Hingurakgoda Sports Ground,Hingurakgoda,Polonnaruwa,North Central,Public,matting,128.0,98.0,No,Yes,Yes,No,Yes,1.0,14.0,12296.0,3.0
+146.0,Hingurakgoda Urban Council Ground,Hingurakgoda,Polonnaruwa,North Central,Public,matting,123.0,107.0,No,Yes,Yes,No,Yes,1.0,10.0,7802.0,2.0
+147.0,Hingurakgoda Youth Ground,Hingurakgoda,Polonnaruwa,North Central,Public,matting,119.0,115.0,No,Yes,Yes,No,Yes,1.0,29.0,17872.0,3.0
+147.0,Hingurakgoda Youth Ground,Hingurakgoda,Polonnaruwa,North Central,Public,matting,119.0,115.0,No,Yes,Yes,No,Yes,1.0,29.0,17872.0,3.0
+148.0,Hikkaduwa Foundation of Goodness Grounds,Hikkaduwa,Galle,Southern,Private,matting,109.0,116.0,No,Yes,Yes,No,Yes,1.0,24.0,14735.0,3.0
+149.0,Hikkaduwa Sri Sumangala College Ground,Hikkaduwa,Galle,Southern,School,matting,122.0,100.0,No,Yes,Yes,Yes,No,2.0,44.0,31506.0,3.0
+150.0,Hikkaduwa Sports Ground,Hikkaduwa,Galle,Southern,Public,matting,127.0,108.0,No,Yes,Yes,No,Yes,1.0,15.0,19638.0,3.0
+151.0,Homagama Mahinda Rajapaksha College Ground,Homagama,Colombo,Western,School,matting,127.0,99.0,No,Yes,Yes,Yes,No,2.0,35.0,21587.0,3.0
+152.0,Homagama Public Ground,Homagama,Colombo,Western,Public,matting,110.0,111.0,No,Yes,Yes,No,Yes,1.0,30.0,7949.0,2.0
+153.0,Horana Arons Cricket Club Ground,Horana,Kalutara,Western,Club,turf,136.0,140.0,Yes,Yes,Yes,Yes,Yes,2.0,146.0,128526.0,5.0
+154.0,Horana Public Ground,Horana,Kalutara,Western,Public,matting,106.0,90.0,No,Yes,Yes,No,Yes,1.0,20.0,16762.0,3.0
+155.0,Horana Royal College Ground,Horana,Kalutara,Western,School,matting,122.0,114.0,No,Yes,Yes,Yes,No,2.0,48.0,27121.0,3.0
+156.0,Horana Taxila College Ground,Horana,Kalutara,Western,School,matting,114.0,100.0,No,Yes,Yes,Yes,No,2.0,36.0,43947.0,3.0
+157.0,Horana Urban Council Ground,Horana,Kalutara,Western,Public,matting,108.0,118.0,No,Yes,Yes,No,Yes,1.0,11.0,6149.0,2.0
+158.0,Hunumulla Kannagara College Ground,Hunumulla,Gampaha,Western,School,matting,113.0,97.0,No,Yes,Yes,Yes,No,2.0,28.0,32342.0,3.0
+159.0,Ibbagamuwa Ground,Ibbagamuwa,Kurunegala,North Western,Public,matting,111.0,112.0,No,Yes,Yes,No,Yes,1.0,16.0,18921.0,2.0
+160.0,Ibbagamuwa Public Ground,Ibbagamuwa,Kurunegala,North Western,Public,matting,121.0,120.0,No,Yes,Yes,No,Yes,1.0,22.0,5100.0,3.0
+161.0,Ibbagamuwa St Anne's College Ground,Kurunegala,Kurunegala,North Western,School,matting,117.0,98.0,No,Yes,Yes,Yes,No,2.0,47.0,45310.0,3.0
+162.0,Jaffna Central College Ground,Jaffna,Jaffna,Northern,School,matting,128.0,96.0,No,Yes,Yes,Yes,No,2.0,37.0,42901.0,3.0
+163.0,Jaffna Hindu College Ground,Jaffna,Jaffna,Northern,School,matting,126.0,118.0,No,Yes,Yes,Yes,No,2.0,23.0,32432.0,3.0
+164.0,Jaffna International Cricket Stadium,Mandaitivu,Jaffna,Northern,Public,turf,142.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,144.0,124159.0,5.0
+165.0,Jaffna Mallakam Sri Baskaran Cricket Ground,Mallakam,Jaffna,Northern,Public,matting,112.0,119.0,No,Yes,Yes,No,Yes,1.0,12.0,10020.0,3.0
+166.0,Jaffna Public Ground,Jaffna,Jaffna,Northern,Public,matting,105.0,115.0,No,Yes,Yes,No,Yes,1.0,27.0,10513.0,2.0
+167.0,Jaffna Skandavarodaya College Ground,Jaffna,Jaffna,Northern,School,matting,121.0,96.0,No,Yes,Yes,Yes,No,2.0,44.0,43244.0,3.0
+168.0,Jaffna St John's College Ground,Jaffna,Jaffna,Northern,School,matting,120.0,100.0,No,Yes,Yes,Yes,No,2.0,46.0,34345.0,3.0
+169.0,Jaffna St Patrick's College Ground,Jaffna,Jaffna,Northern,School,matting,126.0,94.0,No,Yes,Yes,Yes,No,2.0,22.0,41764.0,3.0
+170.0,Jaffna Trinco Hindu College Ground,Trincomalee,Trincomalee,Eastern,School,matting,124.0,96.0,No,Yes,Yes,Yes,No,2.0,20.0,32973.0,3.0
+171.0,Jaffna Trincomalee Normans Ground,Trincomalee,Trincomalee,Eastern,Public,matting,120.0,107.0,No,Yes,Yes,No,Yes,1.0,13.0,17273.0,3.0
+172.0,Jaffna Trincomalee Public Ground,Trincomalee,Trincomalee,Eastern,Public,matting,115.0,120.0,No,Yes,Yes,No,Yes,1.0,22.0,19464.0,3.0
+173.0,Jaffna Trincomalee Stadium,Trincomalee,Trincomalee,Eastern,Public,turf,145.0,142.0,Yes,Yes,Yes,Yes,Yes,2.0,258.0,125174.0,5.0
+174.0,Jaffna Trincomalee McHeyzer Stadium,Trincomalee,Trincomalee,Eastern,Public,turf,139.0,149.0,Yes,Yes,Yes,Yes,Yes,2.0,112.0,105157.0,4.0
+175.0,Jaffna Ukuwela SB Yalegama Ground,Ukuwela,Matale,Central,Public,matting,106.0,96.0,No,Yes,Yes,No,Yes,1.0,13.0,8259.0,2.0
+176.0,Kalutara Esplanade,Kalutara,Kalutara,Western,Public,turf,144.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,232.0,171414.0,5.0
+177.0,Kalutara Police Training Ground,Kalutara,Kalutara,Western,Public,matting,112.0,120.0,No,Yes,Yes,No,Yes,1.0,31.0,15363.0,3.0
+178.0,Kalutara Public Ground,Kalutara,Kalutara,Western,Public,matting,119.0,110.0,No,Yes,Yes,No,Yes,1.0,16.0,11415.0,2.0
+179.0,Kalutara Sports Club Ground,Kalutara,Kalutara,Western,Club,matting,131.0,103.0,No,Yes,Yes,Yes,Yes,2.0,52.0,24380.0,4.0
+180.0,Kalutara Town Club Ground,Kalutara,Kalutara,Western,Club,matting,129.0,95.0,No,Yes,Yes,Yes,Yes,2.0,27.0,34972.0,3.0
+181.0,Kalutara Urban Council Ground,Kalutara,Kalutara,Western,Public,matting,117.0,114.0,No,Yes,Yes,No,Yes,1.0,13.0,17441.0,3.0
+182.0,Kandana De Mazenod College Ground,Kandana,Gampaha,Western,School,matting,130.0,97.0,No,Yes,Yes,Yes,No,2.0,40.0,22715.0,3.0
+183.0,Kandy Asgiriya Stadium,Kandy,Kandy,Central,Public,turf,142.0,141.0,Yes,Yes,Yes,Yes,Yes,2.0,227.0,168391.0,5.0
+184.0,Kandy Bogambara Recreation Grounds,Kandy,Kandy,Central,Public,turf,135.0,140.0,Yes,Yes,Yes,Yes,Yes,2.0,229.0,87326.0,5.0
+185.0,Kandy Katugastota Oval,Kandy,Kandy,Central,Public,turf,141.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,117.0,132483.0,5.0
+186.0,Kandy Kingswood College Ground,Kandy,Kandy,Central,School,turf,133.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,66.0,109707.0,5.0
+187.0,Kandy Lake View Ground,Kandy,Kandy,Central,Public,matting,118.0,101.0,No,Yes,Yes,No,Yes,1.0,30.0,15159.0,3.0
+188.0,Kandy Police Ground,Kandy,Kandy,Central,Public,matting,117.0,94.0,No,Yes,Yes,No,Yes,1.0,14.0,16274.0,3.0
+189.0,Kandy Prison Grounds,Kandy,Kandy,Central,Public,matting,106.0,101.0,No,Yes,Yes,No,Yes,1.0,15.0,12915.0,3.0
+190.0,Kandy Thurstan College Grounds,Kandy,Kandy,Central,School,turf,131.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,72.0,108540.0,4.0
+191.0,Kantale Grounds,Kantale,Trincomalee,Eastern,Public,matting,111.0,118.0,No,Yes,Yes,No,Yes,1.0,27.0,10475.0,3.0
+192.0,Kantalai Public Ground,Kantale,Trincomalee,Eastern,Public,matting,120.0,115.0,No,Yes,Yes,No,Yes,1.0,13.0,13540.0,3.0
+193.0,Kantalai Vidyalaya Ground,Kantale,Trincomalee,Eastern,School,matting,118.0,98.0,No,Yes,Yes,Yes,No,2.0,41.0,25638.0,3.0
+194.0,Karainagar Public Ground,Karainagar,Jaffna,Northern,Public,matting,114.0,97.0,No,Yes,Yes,No,Yes,1.0,20.0,11261.0,2.0
+195.0,Karapitiya Lions Club Grounds,Karapitiya,Galle,Southern,Club,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,2.0,176.0,192661.0,5.0
+196.0,Karapitiya Public Ground,Karapitiya,Galle,Southern,Public,matting,124.0,103.0,No,Yes,Yes,No,Yes,1.0,12.0,4199.0,2.0
+197.0,Karathivu Public Ground,Kalmunai,Ampara,Eastern,Public,matting,108.0,101.0,No,Yes,Yes,No,Yes,1.0,17.0,15763.0,3.0
+198.0,Katana Public Ground,Negombo,Gampaha,Western,Public,matting,121.0,114.0,No,Yes,Yes,No,Yes,1.0,18.0,9375.0,2.0
+199.0,Katana St Mary's College Ground,Negombo,Gampaha,Western,School,matting,122.0,108.0,No,Yes,Yes,Yes,No,2.0,37.0,33274.0,3.0
+200.0,Katargama Public Ground,Kataragama,Monaragala,Uva,Public,matting,112.0,104.0,No,Yes,Yes,No,Yes,1.0,20.0,12074.0,2.0
+201.0,Kathaluwa Cricket Ground,Ahangama,Galle,Southern,Public,matting,117.0,108.0,No,Yes,Yes,No,Yes,1.0,18.0,9870.0,2.0
+202.0,Kattankudy Central College Ground,Kattankudy,Batticaloa,Eastern,School,matting,122.0,99.0,No,Yes,Yes,Yes,No,2.0,40.0,33714.0,3.0
+203.0,Kattankudy Public Ground,Kattankudy,Batticaloa,Eastern,Public,matting,110.0,112.0,No,Yes,Yes,No,Yes,1.0,27.0,14630.0,3.0
+204.0,Katuwana Public Ground,Katuwana,Hambantota,Southern,Public,matting,121.0,103.0,No,Yes,Yes,No,Yes,1.0,17.0,8912.0,2.0
+205.0,Katuwana Vidyalaya School Ground,Katuwana,Hambantota,Southern,School,matting,113.0,95.0,No,Yes,Yes,Yes,No,2.0,44.0,31092.0,3.0
+206.0,Kegalle District Ground,Kegalle,Kegalle,Sabaragamuwa,Public,matting,119.0,112.0,No,Yes,Yes,No,Yes,1.0,22.0,14953.0,3.0
+207.0,Kegalle Esplanade,Kegalle,Kegalle,Sabaragamuwa,Public,turf,144.0,150.0,Yes,Yes,Yes,Yes,Yes,2.0,224.0,142519.0,5.0
+208.0,Kegalle Public Ground,Kegalle,Kegalle,Sabaragamuwa,Public,matting,115.0,110.0,No,Yes,Yes,No,Yes,1.0,20.0,6427.0,2.0
+209.0,Kegalle Sports Club Ground,Kegalle,Kegalle,Sabaragamuwa,Club,turf,139.0,143.0,Yes,Yes,Yes,Yes,Yes,2.0,126.0,158260.0,5.0
+210.0,Kegalle Urban Council Ground,Kegalle,Kegalle,Sabaragamuwa,Public,matting,125.0,96.0,No,Yes,Yes,No,Yes,1.0,15.0,12415.0,3.0
+211.0,Kekirawa Public Ground,Kekirawa,Anuradhapura,North Central,Public,matting,114.0,108.0,No,Yes,Yes,No,Yes,1.0,20.0,9283.0,2.0
+212.0,Kekirawa Ran Kekulu School Ground,Kekirawa,Anuradhapura,North Central,School,matting,123.0,102.0,No,Yes,Yes,Yes,No,2.0,43.0,31294.0,3.0
+213.0,Kelaniya Dharmaloka College Ground,Kelaniya,Gampaha,Western,School,matting,120.0,109.0,No,Yes,Yes,Yes,No,2.0,46.0,29331.0,3.0
+214.0,Kelaniya Public Ground,Kelaniya,Gampaha,Western,Public,matting,115.0,118.0,No,Yes,Yes,No,Yes,1.0,18.0,8563.0,2.0
+215.0,Kelaniya University Grounds,Kelaniya,Gampaha,Western,Public,turf,134.0,145.0,Yes,Yes,Yes,Yes,Yes,2.0,132.0,103915.0,5.0
+216.0,Kinniya East Playground,Kinniya,Trincomalee,Eastern,Public,matting,109.0,107.0,No,Yes,Yes,No,Yes,1.0,15.0,9997.0,2.0
+217.0,Kinniya Public Ground,Kinniya,Trincomalee,Eastern,Public,matting,117.0,113.0,No,Yes,Yes,No,Yes,1.0,21.0,13022.0,3.0
+218.0,Kinniya Sports Club Ground,Kinniya,Trincomalee,Eastern,Club,matting,128.0,95.0,No,Yes,Yes,Yes,Yes,2.0,57.0,33859.0,3.0
+219.0,Kinniya Stadium,Kinniya,Trincomalee,Eastern,Public,turf,142.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,175.0,120586.0,5.0
+220.0,Kiribathgoda Public Ground,Kiribathgoda,Gampaha,Western,Public,matting,110.0,111.0,No,Yes,Yes,No,Yes,1.0,17.0,6743.0,2.0
+221.0,Kiribathgoda St Paul's College Ground,Kiribathgoda,Gampaha,Western,School,matting,120.0,95.0,No,Yes,Yes,Yes,No,2.0,22.0,40797.0,3.0
+222.0,Kirimetiyawa Public Ground,Wennappuwa,Puttalam,North Western,Public,matting,125.0,110.0,No,Yes,Yes,No,Yes,1.0,27.0,13229.0,3.0
+223.0,Kirindiwela Central College Ground,Kirindiwela,Gampaha,Western,School,matting,116.0,99.0,No,Yes,Yes,Yes,No,2.0,39.0,21653.0,3.0
+224.0,Kirindiwela Public Ground,Kirindiwela,Gampaha,Western,Public,matting,113.0,112.0,No,Yes,Yes,No,Yes,1.0,10.0,9683.0,2.0
+225.0,Koggala Public Ground,Koggala,Galle,Southern,Public,matting,120.0,101.0,No,Yes,Yes,No,Yes,1.0,17.0,8248.0,2.0
+226.0,Koggala Sports Club Ground,Koggala,Galle,Southern,Club,matting,124.0,108.0,No,Yes,Yes,Yes,Yes,2.0,36.0,26407.0,4.0
+227.0,Kohuwala Public Ground,Kohuwala,Colombo,Western,Public,matting,115.0,113.0,No,Yes,Yes,No,Yes,1.0,15.0,11338.0,2.0
+228.0,Kolonnawa Public Ground,Kolonnawa,Colombo,Western,Public,matting,112.0,103.0,No,Yes,Yes,No,Yes,1.0,17.0,11683.0,3.0
+229.0,Kolonnawa Ravana Stadium,Kolonnawa,Colombo,Western,Public,turf,142.0,145.0,Yes,Yes,Yes,Yes,Yes,2.0,191.0,131941.0,5.0
+230.0,Kolonnawa Urban Council Ground,Kolonnawa,Colombo,Western,Public,matting,113.0,97.0,No,Yes,Yes,No,Yes,1.0,13.0,7912.0,2.0
+231.0,Kuliyapitiya Central College Ground,Kuliyapitiya,Kurunegala,North Western,School,matting,121.0,108.0,No,Yes,Yes,Yes,No,2.0,28.0,37884.0,3.0
+232.0,Kuliyapitiya Public Ground,Kuliyapitiya,Kurunegala,North Western,Public,matting,117.0,96.0,No,Yes,Yes,No,Yes,1.0,11.0,12540.0,2.0
+233.0,Kuliyapitiya Sports Club Ground,Kuliyapitiya,Kurunegala,North Western,Club,matting,127.0,100.0,No,Yes,Yes,Yes,Yes,2.0,41.0,26774.0,4.0
+234.0,Kurunegala District Ground,Kurunegala,Kurunegala,North Western,Public,matting,110.0,104.0,No,Yes,Yes,No,Yes,1.0,14.0,8841.0,2.0
+235.0,Kurunegala Esplanade,Kurunegala,Kurunegala,North Western,Public,turf,143.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,212.0,135400.0,5.0
+236.0,Kurunegala Mallawapitiya Provincial Stadium,Kurunegala,Kurunegala,North Western,Public,turf,147.0,146.0,Yes,Yes,Yes,Yes,Yes,2.0,130.0,164953.0,5.0
+237.0,Kurunegala Maliyadeva College Ground,Kurunegala,Kurunegala,North Western,School,turf,131.0,122.0,Yes,Yes,Yes,Yes,Yes,2.0,62.0,98518.0,4.0
+238.0,Kurunegala Pilessa School Grounds,Kurunegala,Kurunegala,North Western,School,matting,115.0,99.0,No,Yes,Yes,Yes,No,2.0,23.0,30427.0,3.0
+239.0,Kurunegala Police Grounds,Kurunegala,Kurunegala,North Western,Public,matting,113.0,108.0,No,Yes,Yes,No,Yes,1.0,17.0,14315.0,3.0
+240.0,Kurunegala Public Ground,Kurunegala,Kurunegala,North Western,Public,matting,118.0,114.0,No,Yes,Yes,No,Yes,1.0,22.0,11080.0,3.0
+241.0,Kurunegala St Anne's College Ground,Kurunegala,Kurunegala,North Western,School,matting,121.0,97.0,No,Yes,Yes,Yes,No,2.0,37.0,40935.0,3.0
+242.0,Kurunegala Welagedara Stadium,Kurunegala,Kurunegala,North Western,Public,turf,148.0,149.0,Yes,Yes,Yes,Yes,Yes,2.0,220.0,134272.0,5.0
+243.0,Madampe Public Ground,Madampe,Puttalam,North Western,Public,matting,114.0,120.0,No,Yes,Yes,No,Yes,1.0,13.0,8375.0,3.0
+244.0,Madampe St Sebastian School Ground,Madampe,Puttalam,North Western,School,matting,127.0,96.0,No,Yes,Yes,Yes,No,2.0,25.0,34418.0,3.0
+245.0,Madampe Urban Council Ground,Madampe,Puttalam,North Western,Public,matting,109.0,113.0,No,Yes,Yes,No,Yes,1.0,20.0,10510.0,3.0
+246.0,Madihe Hilltop Ground,Matara,Matara,Southern,Private,matting,122.0,111.0,No,Yes,Yes,No,Yes,0.0,18.0,9576.0,2.0
+247.0,Madurankuli Public Ground,Madurankuliya,Puttalam,North Western,Public,matting,118.0,102.0,No,Yes,Yes,No,Yes,1.0,11.0,7657.0,2.0
+248.0,Madurankuli Sports Ground,Madurankuliya,Puttalam,North Western,Public,matting,126.0,96.0,No,Yes,Yes,No,Yes,1.0,13.0,10460.0,3.0
+249.0,Makuludoowa Public Ground,Habaraduwa,Galle,Southern,Public,matting,113.0,114.0,No,Yes,Yes,No,Yes,1.0,17.0,9082.0,3.0
+250.0,Makuludoowa Sri Sumangala School Ground,Habaraduwa,Galle,Southern,School,matting,122.0,108.0,No,Yes,Yes,Yes,No,2.0,38.0,33284.0,3.0
+251.0,Malabe Athurugiriya Road Ground,Malabe,Colombo,Western,Public,matting,111.0,108.0,No,Yes,Yes,No,Yes,1.0,17.0,7850.0,2.0
+252.0,Malabe Gateway International College Ground,Malabe,Colombo,Western,School,matting,124.0,101.0,No,Yes,Yes,Yes,No,2.0,32.0,42176.0,3.0
+253.0,Malabe Horizon College Ground,Malabe,Colombo,Western,School,matting,118.0,97.0,No,Yes,Yes,Yes,No,2.0,27.0,36543.0,3.0
+254.0,Malabe Public Ground,Malabe,Colombo,Western,Public,matting,109.0,120.0,No,Yes,Yes,No,Yes,1.0,12.0,9857.0,2.0
+255.0,Malabe SLIIT Grounds,Malabe,Colombo,Western,Public,turf,137.0,146.0,Yes,Yes,Yes,Yes,Yes,2.0,162.0,119334.0,5.0
+256.0,Maligawatta Henamulla Ground,Maligawatta,Colombo,Western,Public,matting,114.0,98.0,No,Yes,Yes,No,Yes,1.0,17.0,11952.0,3.0
+257.0,Mallavi Public Ground,Mallavi,Mullaitivu,Northern,Public,matting,113.0,99.0,No,Yes,Yes,No,Yes,1.0,16.0,13122.0,3.0
+258.0,Mallavi Vipulananda College Ground,Mallavi,Mullaitivu,Northern,School,matting,121.0,96.0,No,Yes,Yes,Yes,No,2.0,29.0,33217.0,3.0
+259.0,Mannar Public Ground,Mannar,Mannar,Northern,Public,matting,113.0,114.0,No,Yes,Yes,No,Yes,1.0,21.0,13405.0,3.0
+260.0,Mannar St Xavier's College Ground,Mannar,Mannar,Northern,School,matting,121.0,102.0,No,Yes,Yes,Yes,No,2.0,43.0,29613.0,3.0
+261.0,Mannar Urban Council Ground,Mannar,Mannar,Northern,Public,matting,117.0,110.0,No,Yes,Yes,No,Yes,1.0,25.0,10274.0,2.0
+262.0,Marawila Public Ground,Marawila,Puttalam,North Western,Public,matting,109.0,106.0,No,Yes,Yes,No,Yes,1.0,14.0,8277.0,2.0
+263.0,Marawila St Mary's College Ground,Marawila,Puttalam,North Western,School,matting,122.0,100.0,No,Yes,Yes,Yes,No,2.0,34.0,40125.0,3.0
+264.0,Matale Bernard Aluwihare Stadium,Matale,Matale,Central,Public,turf,145.0,147.0,Yes,Yes,Yes,Yes,Yes,2.0,203.0,144821.0,5.0
+265.0,Matale Hindu College Ground,Matale,Matale,Central,School,matting,124.0,97.0,No,Yes,Yes,Yes,No,2.0,33.0,32760.0,3.0
+266.0,Matale Public Ground,Matale,Matale,Central,Public,matting,120.0,110.0,No,Yes,Yes,No,Yes,1.0,11.0,9127.0,2.0
+267.0,Matale Science College Ground,Matale,Matale,Central,School,matting,115.0,105.0,No,Yes,Yes,Yes,No,2.0,37.0,31604.0,3.0
+268.0,Matale Sports Club Ground,Matale,Matale,Central,Club,matting,128.0,98.0,No,Yes,Yes,Yes,Yes,2.0,52.0,25470.0,4.0
+269.0,Matale Urban Council Ground,Matale,Matale,Central,Public,matting,117.0,114.0,No,Yes,Yes,No,Yes,1.0,25.0,12758.0,3.0
+270.0,Matara Browns Hill Ground,Matara,Matara,Southern,Public,matting,115.0,108.0,No,Yes,Yes,No,Yes,1.0,13.0,10986.0,3.0
+271.0,Matara Dharmapala College Ground,Matara,Matara,Southern,School,matting,123.0,100.0,No,Yes,Yes,Yes,No,2.0,41.0,33246.0,3.0
+272.0,Matara Esplanade,Matara,Matara,Southern,Public,turf,143.0,142.0,Yes,Yes,Yes,Yes,Yes,2.0,197.0,174430.0,5.0
+273.0,Matara Kamburugamuwa School Ground,Matara,Matara,Southern,School,matting,116.0,95.0,No,Yes,Yes,Yes,No,2.0,39.0,22689.0,3.0
+274.0,Matara Public Ground,Matara,Matara,Southern,Public,matting,121.0,113.0,No,Yes,Yes,No,Yes,1.0,18.0,15847.0,3.0
+275.0,Matara Rahula College Ground,Matara,Matara,Southern,School,matting,125.0,102.0,No,Yes,Yes,Yes,No,2.0,48.0,39177.0,3.0
+276.0,Matara St Servatius Ground,Matara,Matara,Southern,School,turf,135.0,143.0,Yes,Yes,Yes,Yes,Yes,2.0,86.0,112748.0,5.0
+277.0,Matara Uyanwatta Stadium,Matara,Matara,Southern,Public,turf,149.0,148.0,Yes,Yes,Yes,Yes,Yes,2.0,240.0,102680.0,5.0
+278.0,Matara Vijitha Central College Ground,Akuressa,Matara,Southern,School,matting,124.0,96.0,No,Yes,Yes,Yes,No,2.0,31.0,25174.0,3.0
+279.0,Matara Weherahena Public Ground,Matara,Matara,Southern,Public,matting,115.0,115.0,No,Yes,Yes,No,Yes,1.0,12.0,9037.0,2.0
+280.0,Matugama Public Ground,Matugama,Kalutara,Western,Public,matting,113.0,112.0,No,Yes,Yes,No,Yes,1.0,15.0,8104.0,2.0
+281.0,Matugama Sports Club Ground,Matugama,Kalutara,Western,Club,matting,127.0,98.0,No,Yes,Yes,Yes,Yes,2.0,54.0,29340.0,4.0
+282.0,Matugama Urban Council Ground,Matugama,Kalutara,Western,Public,matting,120.0,113.0,No,Yes,Yes,No,Yes,1.0,14.0,17568.0,3.0
+283.0,Medawachchiya Public Ground,Medawachchiya,Anuradhapura,North Central,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,20.0,10716.0,3.0
+284.0,Medawachchiya St Joseph's College Ground,Medawachchiya,Anuradhapura,North Central,School,matting,119.0,96.0,No,Yes,Yes,Yes,No,2.0,47.0,29337.0,3.0
+285.0,Meerigama Alawwa Road Grounds,Meerigama,Gampaha,Western,Public,matting,115.0,108.0,No,Yes,Yes,No,Yes,1.0,16.0,10064.0,2.0
+286.0,Meerigama Public Ground,Meerigama,Gampaha,Western,Public,matting,121.0,114.0,No,Yes,Yes,No,Yes,1.0,21.0,8577.0,3.0
+287.0,Mihintale Grounds,Mihintale,Anuradhapura,North Central,Public,matting,116.0,115.0,No,Yes,Yes,No,Yes,1.0,17.0,12504.0,3.0
+288.0,Mihintale Public Ground,Mihintale,Anuradhapura,North Central,Public,matting,108.0,96.0,No,Yes,Yes,No,Yes,1.0,12.0,7014.0,2.0
+289.0,Mihintale Rajarata University Ground,Mihintale,Anuradhapura,North Central,Public,turf,139.0,143.0,Yes,Yes,Yes,Yes,Yes,2.0,105.0,144429.0,5.0
+290.0,Minuwangoda District Ground,Minuwangoda,Gampaha,Western,Public,matting,118.0,114.0,No,Yes,Yes,No,Yes,1.0,10.0,9902.0,2.0
+291.0,Minuwangoda Public Ground,Minuwangoda,Gampaha,Western,Public,matting,112.0,108.0,No,Yes,Yes,No,Yes,1.0,14.0,6218.0,2.0
+292.0,Minuwangoda St Anne's College Ground,Minuwangoda,Gampaha,Western,School,matting,127.0,99.0,No,Yes,Yes,Yes,No,2.0,46.0,35841.0,3.0
+293.0,Minuwangoda Urban Council Ground,Minuwangoda,Gampaha,Western,Public,matting,110.0,100.0,No,Yes,Yes,No,Yes,1.0,20.0,11810.0,3.0
+294.0,Mirigama Public Ground,Mirigama,Gampaha,Western,Public,matting,113.0,117.0,No,Yes,Yes,No,Yes,1.0,15.0,7202.0,2.0
+295.0,Mirigama Sports Club Ground,Mirigama,Gampaha,Western,Club,matting,128.0,101.0,No,Yes,Yes,Yes,Yes,2.0,49.0,28615.0,4.0
+296.0,Mirihana Public Ground,Mirihana,Colombo,Western,Public,matting,111.0,98.0,No,Yes,Yes,No,Yes,1.0,11.0,5398.0,2.0
+297.0,Moolai Public Ground,Moolai,Jaffna,Northern,Public,matting,116.0,97.0,No,Yes,Yes,No,Yes,1.0,13.0,5860.0,2.0
+298.0,Moragolla Public Ground,Moragolla,Kandy,Central,Public,matting,114.0,120.0,No,Yes,Yes,No,Yes,1.0,16.0,9338.0,2.0
+299.0,Moratuwa Prince of Wales College Ground,Moratuwa,Colombo,Western,School,turf,133.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,61.0,128934.0,5.0
+300.0,Moratuwa Public Ground,Moratuwa,Colombo,Western,Public,matting,117.0,114.0,No,Yes,Yes,No,Yes,1.0,18.0,8121.0,3.0
+301.0,Moratuwa Ranpokunagama Grounds,Moratuwa,Colombo,Western,Public,matting,114.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,9220.0,2.0
+302.0,Moratuwa St Sebastian’s College Ground,Moratuwa,Colombo,Western,School,turf,131.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,75.0,109744.0,5.0
+303.0,Moratuwa Uyana Public Ground,Moratuwa,Colombo,Western,Public,matting,109.0,115.0,No,Yes,Yes,No,Yes,1.0,11.0,10733.0,3.0
+304.0,Mullaitivu Public Ground,Mullaitivu,Mullaitivu,Northern,Public,matting,118.0,102.0,No,Yes,Yes,No,Yes,1.0,19.0,8934.0,2.0
+305.0,Mullaitivu Sports Club Ground,Mullaitivu,Mullaitivu,Northern,Club,matting,125.0,99.0,No,Yes,Yes,Yes,Yes,2.0,32.0,25944.0,4.0
+306.0,Nainativu Public Ground,Nainativu,Jaffna,Northern,Public,matting,114.0,97.0,No,Yes,Yes,No,Yes,1.0,16.0,7134.0,2.0
+307.0,Nanu Oya Sports Ground,Nanu Oya,Nuwara Eliya,Central,Public,matting,116.0,120.0,No,Yes,Yes,No,Yes,1.0,15.0,9241.0,3.0
+308.0,Narammala Public Ground,Narammala,Kurunegala,North Western,Public,matting,115.0,108.0,No,Yes,Yes,No,Yes,1.0,17.0,8728.0,3.0
+309.0,Narammala St Joseph’s College Ground,Narammala,Kurunegala,North Western,School,matting,122.0,96.0,No,Yes,Yes,Yes,No,2.0,49.0,30114.0,3.0
+310.0,Nattandiya Public Ground,Nattandiya,Puttalam,North Western,Public,matting,109.0,114.0,No,Yes,Yes,No,Yes,1.0,20.0,11050.0,3.0
+311.0,Nattandiya Sports Club Ground,Nattandiya,Puttalam,North Western,Club,matting,124.0,98.0,No,Yes,Yes,Yes,Yes,2.0,52.0,27351.0,4.0
+312.0,Nattandiya St Anne’s College Ground,Nattandiya,Puttalam,North Western,School,matting,127.0,95.0,No,Yes,Yes,Yes,No,2.0,33.0,36311.0,3.0
+313.0,Negombo District Ground,Negombo,Gampaha,Western,Public,matting,117.0,110.0,No,Yes,Yes,No,Yes,1.0,18.0,8974.0,3.0
+314.0,Negombo Esplanade,Negombo,Gampaha,Western,Public,turf,143.0,145.0,Yes,Yes,Yes,Yes,Yes,2.0,208.0,175238.0,5.0
+315.0,Negombo Maris Stella College Ground,Negombo,Gampaha,Western,School,matting,123.0,107.0,No,Yes,Yes,Yes,No,2.0,54.0,40371.0,3.0
+316.0,Negombo Public Ground,Negombo,Gampaha,Western,Public,matting,112.0,113.0,No,Yes,Yes,No,Yes,1.0,21.0,7808.0,2.0
+317.0,Negombo Sports Club Ground,Negombo,Gampaha,Western,Club,matting,124.0,99.0,No,Yes,Yes,Yes,Yes,2.0,47.0,26764.0,4.0
+318.0,Nelliady Public Ground,Nelliady,Jaffna,Northern,Public,matting,115.0,108.0,No,Yes,Yes,No,Yes,1.0,12.0,6071.0,2.0
+319.0,Nochchiyagama Public Ground,Nochchiyagama,Anuradhapura,North Central,Public,matting,116.0,96.0,No,Yes,Yes,No,Yes,1.0,14.0,9043.0,2.0
+320.0,Nochchiyagama School Ground,Nochchiyagama,Anuradhapura,North Central,School,matting,121.0,95.0,No,Yes,Yes,Yes,No,2.0,41.0,30459.0,3.0
+321.0,Nugegoda Anula Vidyalaya Ground,Nugegoda,Colombo,Western,School,turf,133.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,63.0,127436.0,5.0
+322.0,Nugegoda High Level Road Public Ground,Nugegoda,Colombo,Western,Public,matting,109.0,107.0,No,Yes,Yes,No,Yes,1.0,14.0,8520.0,2.0
+323.0,Nugegoda Lyceum International School Ground,Nugegoda,Colombo,Western,School,matting,126.0,99.0,No,Yes,Yes,Yes,No,2.0,42.0,37175.0,3.0
+324.0,Nugegoda Public Ground,Nugegoda,Colombo,Western,Public,matting,114.0,115.0,No,Yes,Yes,No,Yes,1.0,11.0,6744.0,2.0
+325.0,Nugegoda St Joseph’s College Ground,Nugegoda,Colombo,Western,School,matting,125.0,109.0,No,Yes,Yes,Yes,No,2.0,37.0,31866.0,3.0
+326.0,Nugegoda Yakkala Road Ground,Nugegoda,Colombo,Western,Public,matting,110.0,98.0,No,Yes,Yes,No,Yes,1.0,16.0,9842.0,2.0
+327.0,Nuwara Eliya Bloomfield Ground,Nuwara Eliya,Nuwara Eliya,Central,Club,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,135.0,103773.0,5.0
+328.0,Nuwara Eliya District Ground,Nuwara Eliya,Nuwara Eliya,Central,Public,matting,118.0,120.0,No,Yes,Yes,No,Yes,1.0,14.0,14313.0,2.0
+329.0,Nuwara Eliya Gregory Park Ground,Nuwara Eliya,Nuwara Eliya,Central,Public,matting,114.0,108.0,No,Yes,Yes,No,Yes,1.0,13.0,11555.0,3.0
+330.0,Nuwara Eliya Jayathilake Stadium,Nuwara Eliya,Nuwara Eliya,Central,Public,turf,142.0,143.0,Yes,Yes,Yes,Yes,Yes,2.0,185.0,113885.0,5.0
+331.0,Nuwara Eliya Public Ground,Nuwara Eliya,Nuwara Eliya,Central,Public,matting,117.0,113.0,No,Yes,Yes,No,Yes,1.0,22.0,9033.0,2.0
+332.0,Nuwara Eliya Racecourse Ground,Nuwara Eliya,Nuwara Eliya,Central,Public,matting,125.0,98.0,No,Yes,Yes,No,Yes,1.0,27.0,9981.0,3.0
+333.0,Oddusuddan Public Ground,Oddusuddan,Mullaitivu,Northern,Public,matting,112.0,106.0,No,Yes,Yes,No,Yes,1.0,15.0,8408.0,3.0
+334.0,Oddusuddan Sports Ground,Oddusuddan,Mullaitivu,Northern,Public,matting,120.0,113.0,No,Yes,Yes,No,Yes,1.0,22.0,10225.0,3.0
+335.0,Padukka Public Ground,Padukka,Colombo,Western,Public,matting,109.0,107.0,No,Yes,Yes,No,Yes,1.0,12.0,6431.0,2.0
+336.0,Padukka Sri Piyarathana College Ground,Padukka,Colombo,Western,School,matting,124.0,100.0,No,Yes,Yes,Yes,No,2.0,45.0,29964.0,3.0
+337.0,Padiyathalawa Public Ground,Padiyathalawa,Ampara,Eastern,Public,matting,113.0,120.0,No,Yes,Yes,No,Yes,1.0,14.0,9049.0,2.0
+338.0,Padiyathalawa Vidyalaya Ground,Padiyathalawa,Ampara,Eastern,School,matting,120.0,96.0,No,Yes,Yes,Yes,No,2.0,31.0,41721.0,3.0
+339.0,Pallekele International Cricket Stadium,Pallekele,Kandy,Central,Public,turf,150.0,148.0,Yes,Yes,Yes,Yes,Yes,2.0,293.0,194660.0,5.0
+340.0,Panadura Municipal Ground,Panadura,Kalutara,Western,Public,matting,115.0,113.0,No,Yes,Yes,No,Yes,1.0,13.0,11050.0,3.0
+341.0,Panadura Public Ground,Panadura,Kalutara,Western,Public,matting,114.0,111.0,No,Yes,Yes,No,Yes,1.0,18.0,9457.0,2.0
+342.0,Panadura St John's College Ground,Panadura,Kalutara,Western,School,matting,126.0,100.0,No,Yes,Yes,Yes,No,2.0,37.0,30971.0,3.0
+343.0,Panadura Urban Council Ground,Panadura,Kalutara,Western,Public,matting,112.0,107.0,No,Yes,Yes,No,Yes,1.0,12.0,7635.0,2.0
+344.0,Pannala Public Ground,Pannala,Kurunegala,North Western,Public,matting,108.0,108.0,No,Yes,Yes,No,Yes,1.0,11.0,7340.0,2.0
+345.0,Pannala Sports Club Ground,Pannala,Kurunegala,North Western,Club,matting,124.0,95.0,No,Yes,Yes,Yes,Yes,2.0,29.0,22156.0,4.0
+346.0,Pannala St Joseph’s College Ground,Pannala,Kurunegala,North Western,School,matting,118.0,100.0,No,Yes,Yes,Yes,No,2.0,33.0,37814.0,3.0
+347.0,Passara Public Ground,Passara,Badulla,Uva,Public,matting,110.0,118.0,No,Yes,Yes,No,Yes,1.0,15.0,9530.0,2.0
+348.0,Passara St Aloysius College Ground,Passara,Badulla,Uva,School,matting,117.0,95.0,No,Yes,Yes,Yes,No,2.0,40.0,28764.0,3.0
+349.0,Pelawatta Ground,Battaramulla,Colombo,Western,Public,matting,115.0,111.0,No,Yes,Yes,No,Yes,1.0,12.0,8021.0,3.0
+350.0,Peliyagoda Public Ground,Peliyagoda,Gampaha,Western,Public,matting,114.0,108.0,No,Yes,Yes,No,Yes,1.0,11.0,7756.0,2.0
+,,,,,,,,,,,,,,,,,
+351.0,Pelmadulla Public Ground,Pelmadulla,Ratnapura,Sabaragamuwa,Public,matting,113.0,110.0,No,Yes,Yes,No,Yes,1.0,17.0,8943.0,2.0
+352.0,Pethiyagoda Public Ground,Kelaniya,Gampaha,Western,Public,matting,114.0,107.0,No,Yes,Yes,No,Yes,1.0,14.0,7991.0,3.0
+353.0,Piliyandala Central College Ground,Piliyandala,Colombo,Western,School,matting,122.0,100.0,No,Yes,Yes,Yes,No,2.0,45.0,35411.0,3.0
+354.0,Piliyandala Public Ground,Piliyandala,Colombo,Western,Public,matting,116.0,114.0,No,Yes,Yes,No,Yes,1.0,13.0,8254.0,2.0
+355.0,Piliyandala Sports Club Ground,Piliyandala,Colombo,Western,Club,matting,127.0,97.0,No,Yes,Yes,Yes,Yes,2.0,37.0,27516.0,4.0
+356.0,Pita Kotte Urban Council Ground,Kotte,Colombo,Western,Public,matting,114.0,108.0,No,Yes,Yes,No,Yes,1.0,12.0,7440.0,2.0
+357.0,Pitigala Public Ground,Pitigala,Galle,Southern,Public,matting,109.0,117.0,No,Yes,Yes,No,Yes,1.0,15.0,8456.0,2.0
+358.0,Pitigala Sri Dharmaloka College Ground,Pitigala,Galle,Southern,School,matting,122.0,101.0,No,Yes,Yes,Yes,No,2.0,33.0,36944.0,3.0
+359.0,Polgahawela Public Ground,Polgahawela,Kurunegala,North Western,Public,matting,113.0,113.0,No,Yes,Yes,No,Yes,1.0,18.0,9041.0,2.0
+360.0,Polgahawela St Joseph’s College Ground,Polgahawela,Kurunegala,North Western,School,matting,118.0,97.0,No,Yes,Yes,Yes,No,2.0,43.0,30117.0,3.0
+361.0,Polonnaruwa District Ground,Polonnaruwa,Polonnaruwa,North Central,Public,matting,116.0,114.0,No,Yes,Yes,No,Yes,1.0,19.0,12881.0,3.0
+362.0,Polonnaruwa Esplanade,Polonnaruwa,Polonnaruwa,North Central,Public,turf,145.0,146.0,Yes,Yes,Yes,Yes,Yes,2.0,202.0,164283.0,5.0
+363.0,Polonnaruwa Royal College Ground,Polonnaruwa,Polonnaruwa,North Central,School,matting,123.0,100.0,No,Yes,Yes,Yes,No,2.0,37.0,32517.0,3.0
+364.0,Polonnaruwa Thopawewa Public Ground,Polonnaruwa,Polonnaruwa,North Central,Public,matting,112.0,108.0,No,Yes,Yes,No,Yes,1.0,12.0,7064.0,2.0
+365.0,Pooneryn Public Ground,Pooneryn,Kilinochchi,Northern,Public,matting,117.0,95.0,No,Yes,Yes,No,Yes,1.0,14.0,8091.0,2.0
+366.0,Puttalam District Ground,Puttalam,Puttalam,North Western,Public,turf,147.0,144.0,Yes,Yes,Yes,Yes,Yes,2.0,190.0,142647.0,5.0
+367.0,Puttalam Public Ground,Puttalam,Puttalam,North Western,Public,matting,115.0,114.0,No,Yes,Yes,No,Yes,1.0,16.0,8171.0,2.0
+368.0,Puttalam St Mary's College Ground,Puttalam,Puttalam,North Western,School,matting,124.0,100.0,No,Yes,Yes,Yes,No,2.0,41.0,32649.0,3.0
+370.0,Ambalangoda Riverside Ground,Ambalangoda,Galle,Southern,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,2.0,240.0,158000.0,5.0
+371.0,Ambalangoda Youth Cricket Park,Ambalangoda,Galle,Southern,Club,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,210.0,147500.0,4.0
+372.0,Ambalangoda Community Ground,Ambalangoda,Galle,Southern,Public,matting,120.0,116.0,No,Yes,Yes,No,Yes,1.0,30.0,10200.0,3.0
+373.0,Ambalangoda Central Field,Ambalangoda,Galle,Southern,Public,matting,115.0,110.0,No,Yes,Yes,No,No,1.0,25.0,8700.0,2.0
+374.0,Ambalangoda Sports Complex,Ambalangoda,Galle,Southern,Club,turf,145.0,146.0,Yes,Yes,Yes,Yes,Yes,3.0,270.0,169000.0,5.0
+375.0,Ambalangoda College Ground,Ambalangoda,Galle,Southern,School,matting,108.0,104.0,No,Yes,Yes,Yes,No,2.0,35.0,24500.0,3.0
+376.0,Ambalangoda Town Park,Ambalangoda,Galle,Southern,Public,matting,124.0,119.0,No,Yes,Yes,No,Yes,1.0,28.0,9800.0,3.0
+377.0,Ambalangoda Beachside Ground,Ambalangoda,Galle,Southern,Public,turf,136.0,140.0,Yes,Yes,Yes,Yes,Yes,2.0,255.0,162000.0,5.0
+378.0,Ambalangoda Youth Oval,Ambalangoda,Galle,Southern,Club,turf,133.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,200.0,145000.0,4.0
+379.0,Ambalangoda Village Field,Ambalangoda,Galle,Southern,Public,matting,118.0,111.0,No,Yes,Yes,No,No,1.0,22.0,7600.0,2.0
+380.0,Matara City Sports Ground,Matara,Matara,Southern,Public,turf,137.0,141.0,Yes,Yes,Yes,Yes,Yes,2.0,245.0,160000.0,5.0
+381.0,Matara Youth Cricket Park,Matara,Matara,Southern,Club,turf,132.0,134.0,Yes,Yes,Yes,Yes,Yes,2.0,210.0,149000.0,4.0
+382.0,Matara Community Oval,Matara,Matara,Southern,Public,matting,122.0,117.0,No,Yes,Yes,No,Yes,1.0,30.0,10500.0,3.0
+383.0,Matara College Field,Matara,Matara,Southern,School,matting,109.0,105.0,No,Yes,Yes,Yes,No,2.0,40.0,26000.0,3.0
+384.0,Matara Central Cricket Arena,Matara,Matara,Southern,Club,turf,146.0,147.0,Yes,Yes,Yes,Yes,Yes,3.0,280.0,170000.0,5.0
+385.0,Matara Beach Cricket Park,Matara,Matara,Southern,Public,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,240.0,158500.0,5.0
+386.0,Matara Sports Village,Matara,Matara,Southern,Public,matting,120.0,114.0,No,Yes,Yes,No,Yes,1.0,29.0,9800.0,3.0
+387.0,Matara Youth Field,Matara,Matara,Southern,Club,turf,131.0,133.0,Yes,Yes,Yes,Yes,Yes,2.0,198.0,142000.0,4.0
+388.0,Matara District Ground,Matara,Matara,Southern,Public,matting,116.0,109.0,No,Yes,Yes,No,No,1.0,23.0,8200.0,2.0
+389.0,Matara Riverfront Oval,Matara,Matara,Southern,Club,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,2.0,260.0,165000.0,5.0
+390.0,Galle Riverside Ground,Galle,Galle,Southern,Public,turf,139.0,143.0,Yes,Yes,Yes,Yes,Yes,2.0,250.0,161000.0,5.0
+391.0,Galle Youth Cricket Park,Galle,Galle,Southern,Club,turf,134.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,210.0,150000.0,4.0
+392.0,Galle Community Field,Galle,Galle,Southern,Public,matting,121.0,115.0,No,Yes,Yes,No,Yes,1.0,31.0,10800.0,3.0
+393.0,Galle Village Ground,Galle,Galle,Southern,Public,matting,114.0,109.0,No,Yes,Yes,No,No,1.0,24.0,7600.0,2.0
+394.0,Galle Cricket Arena,Galle,Galle,Southern,Club,turf,147.0,148.0,Yes,Yes,Yes,Yes,Yes,3.0,285.0,172000.0,5.0
+395.0,Galle College Oval,Galle,Galle,Southern,School,matting,110.0,106.0,No,Yes,Yes,Yes,No,2.0,36.0,25000.0,3.0
+396.0,Galle Sports Village,Galle,Galle,Southern,Public,matting,124.0,118.0,No,Yes,Yes,No,Yes,1.0,29.0,10200.0,3.0
+397.0,Galle Beachside Cricket Park,Galle,Galle,Southern,Club,turf,135.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,240.0,158000.0,5.0
+398.0,Galle Youth Oval,Galle,Galle,Southern,Club,turf,133.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,205.0,146000.0,4.0
+399.0,Galle Town Field,Galle,Galle,Southern,Public,matting,117.0,111.0,No,Yes,Yes,No,No,1.0,26.0,8500.0,2.0
+400.0,Colombo City Cricket Park,Colombo,Colombo,Western,Club,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,220.0,45000.0,5.0
+401.0,Colombo Community Ground,Colombo,Colombo,Western,Public,matting,121.0,116.0,No,Yes,Yes,No,Yes,1.0,60.0,18000.0,3.0
+402.0,Colombo Youth Oval,Colombo,Colombo,Western,Club,turf,135.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,32000.0,4.0
+403.0,Colombo School Ground,Colombo,Colombo,Western,School,matting,110.0,108.0,No,Yes,Yes,Yes,No,2.0,70.0,20000.0,3.0
+404.0,Colombo Riverside Field,Colombo,Colombo,Western,Public,turf,140.0,143.0,Yes,Yes,Yes,Yes,Yes,3.0,240.0,55000.0,5.0
+405.0,Kandy Hilltop Cricket Park,Kandy,Kandy,Central,Club,turf,137.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,5.0
+406.0,Kandy Youth Ground,Kandy,Kandy,Central,Public,matting,120.0,115.0,No,Yes,Yes,No,Yes,1.0,50.0,17000.0,3.0
+407.0,Kandy Lakeview Field,Kandy,Kandy,Central,Club,turf,134.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,30000.0,4.0
+408.0,Kandy College Oval,Kandy,Kandy,Central,School,matting,112.0,109.0,No,Yes,Yes,Yes,No,2.0,65.0,19000.0,3.0
+409.0,Kandy Sports Village,Kandy,Kandy,Central,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,220.0,48000.0,5.0
+410.0,Kurunegala Cricket Arena,Kurunegala,Kurunegala,North Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,39000.0,4.0
+411.0,Kurunegala Youth Field,Kurunegala,Kurunegala,North Western,Public,matting,118.0,113.0,No,Yes,Yes,No,Yes,1.0,45.0,16000.0,3.0
+412.0,Kurunegala Town Oval,Kurunegala,Kurunegala,North Western,Club,turf,133.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,28000.0,4.0
+413.0,Kurunegala School Park,Kurunegala,Kurunegala,North Western,School,matting,109.0,105.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+414.0,Kurunegala Sports Ground,Kurunegala,Kurunegala,North Western,Public,turf,137.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,5.0
+415.0,Anuradhapura Central Ground,Anuradhapura,Anuradhapura,North Central,Club,turf,139.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,230.0,47000.0,5.0
+416.0,Anuradhapura Youth Park,Anuradhapura,Anuradhapura,North Central,Public,matting,120.0,114.0,No,Yes,Yes,No,Yes,1.0,50.0,17000.0,3.0
+417.0,Anuradhapura City Oval,Anuradhapura,Anuradhapura,North Central,Club,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,29000.0,4.0
+418.0,Anuradhapura School Field,Anuradhapura,Anuradhapura,North Central,School,matting,110.0,107.0,No,Yes,Yes,Yes,No,2.0,70.0,21000.0,3.0
+419.0,Anuradhapura Sports Village,Anuradhapura,Anuradhapura,North Central,Public,turf,138.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,44000.0,5.0
+420.0,Badulla Cricket Arena,Badulla,Badulla,Uva,Club,turf,137.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,38000.0,4.0
+421.0,Badulla Youth Field,Badulla,Badulla,Uva,Public,matting,118.0,112.0,No,Yes,Yes,No,Yes,1.0,45.0,16000.0,3.0
+422.0,Badulla Town Oval,Badulla,Badulla,Uva,Club,turf,134.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,29000.0,4.0
+423.0,Badulla College Ground,Badulla,Badulla,Uva,School,matting,110.0,106.0,No,Yes,Yes,Yes,No,2.0,65.0,20000.0,3.0
+424.0,Badulla Sports Park,Badulla,Badulla,Uva,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,5.0
+425.0,Ratnapura City Cricket Park,Ratnapura,Ratnapura,Sabaragamuwa,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,37000.0,4.0
+426.0,Ratnapura Youth Ground,Ratnapura,Ratnapura,Sabaragamuwa,Public,matting,119.0,114.0,No,Yes,Yes,No,Yes,1.0,50.0,16000.0,3.0
+427.0,Ratnapura Town Field,Ratnapura,Ratnapura,Sabaragamuwa,Club,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,30000.0,4.0
+428.0,Ratnapura School Oval,Ratnapura,Ratnapura,Sabaragamuwa,School,matting,110.0,107.0,No,Yes,Yes,Yes,No,2.0,65.0,21000.0,3.0
+429.0,Ratnapura Sports Complex,Ratnapura,Ratnapura,Sabaragamuwa,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,220.0,43000.0,5.0
+430.0,Negombo Lagoon Cricket Park,Negombo,Gampaha,Western,Club,turf,137.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,41000.0,5.0
+431.0,Negombo Youth Ground,Negombo,Gampaha,Western,Public,matting,119.0,113.0,No,Yes,Yes,No,Yes,1.0,48.0,17000.0,3.0
+432.0,Negombo Town Oval,Negombo,Gampaha,Western,Club,turf,134.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,29000.0,4.0
+433.0,Negombo School Field,Negombo,Gampaha,Western,School,matting,108.0,105.0,No,Yes,Yes,Yes,No,2.0,70.0,20000.0,3.0
+434.0,Negombo Beachside Arena,Negombo,Gampaha,Western,Public,turf,139.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,220.0,46000.0,5.0
+435.0,Gampaha Cricket Park,Gampaha,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,38000.0,4.0
+436.0,Gampaha Youth Oval,Gampaha,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,Yes,1.0,50.0,16000.0,3.0
+437.0,Gampaha City Ground,Gampaha,Gampaha,Western,Club,turf,133.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,28000.0,4.0
+438.0,Gampaha School Cricket Field,Gampaha,Gampaha,Western,School,matting,110.0,106.0,No,Yes,Yes,Yes,No,2.0,60.0,19000.0,3.0
+439.0,Gampaha Sports Complex,Gampaha,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,43000.0,5.0
+440.0,Kalutara Riverside Cricket Ground,Kalutara,Kalutara,Western,Club,turf,137.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,205.0,39500.0,4.0
+441.0,Kalutara Youth Field,Kalutara,Kalutara,Western,Public,matting,119.0,114.0,No,Yes,Yes,No,Yes,1.0,52.0,17000.0,3.0
+442.0,Kalutara City Oval,Kalutara,Kalutara,Western,Club,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,165.0,30000.0,4.0
+443.0,Kalutara College Ground,Kalutara,Kalutara,Western,School,matting,110.0,107.0,No,Yes,Yes,Yes,No,2.0,70.0,21000.0,3.0
+444.0,Kalutara Beach Sports Park,Kalutara,Kalutara,Western,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,220.0,44000.0,5.0
+445.0,Trincomalee Harbour Cricket Park,Trincomalee,Trincomalee,Eastern,Club,turf,137.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,37000.0,4.0
+446.0,Trincomalee Youth Field,Trincomalee,Trincomalee,Eastern,Public,matting,118.0,112.0,No,Yes,Yes,No,Yes,1.0,45.0,16000.0,3.0
+447.0,Trincomalee City Ground,Trincomalee,Trincomalee,Eastern,Club,turf,134.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,28000.0,4.0
+448.0,Trincomalee School Oval,Trincomalee,Trincomalee,Eastern,School,matting,110.0,105.0,No,Yes,Yes,Yes,No,2.0,65.0,20000.0,3.0
+449.0,Trincomalee Sports Village,Trincomalee,Trincomalee,Eastern,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,43000.0,5.0
+450.0,Batticaloa Lagoon Cricket Park,Batticaloa,Batticaloa,Eastern,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,3.0,195.0,36000.0,4.0
+451.0,Batticaloa Youth Field,Batticaloa,Batticaloa,Eastern,Public,matting,118.0,113.0,No,Yes,Yes,No,Yes,1.0,48.0,16000.0,3.0
+452.0,Batticaloa City Oval,Batticaloa,Batticaloa,Eastern,Club,turf,134.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,28500.0,4.0
+453.0,Batticaloa College Ground,Batticaloa,Batticaloa,Eastern,School,matting,109.0,106.0,No,Yes,Yes,Yes,No,2.0,60.0,19000.0,3.0
+454.0,Batticaloa Sports Arena,Batticaloa,Batticaloa,Eastern,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,5.0
+455.0,Jaffna Cricket Arena,Jaffna,Jaffna,Northern,Club,turf,137.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,38000.0,4.0
+456.0,Jaffna Youth Field,Jaffna,Jaffna,Northern,Public,matting,119.0,113.0,No,Yes,Yes,No,Yes,1.0,50.0,17000.0,3.0
+457.0,Jaffna City Oval,Jaffna,Jaffna,Northern,Club,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,29000.0,4.0
+458.0,Jaffna School Cricket Ground,Jaffna,Jaffna,Northern,School,matting,110.0,106.0,No,Yes,Yes,Yes,No,2.0,65.0,20000.0,3.0
+459.0,Jaffna Sports Complex,Jaffna,Jaffna,Northern,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,220.0,44000.0,5.0
+460.0,Dambulla Cricket Arena,Dambulla,Matale,Central,Club,turf,140.0,143.0,Yes,Yes,Yes,Yes,Yes,3.0,240.0,52000.0,5.0
+461.0,Dambulla Youth Field,Dambulla,Matale,Central,Public,matting,118.0,112.0,No,Yes,Yes,No,Yes,1.0,45.0,17000.0,3.0
+462.0,Dambulla City Oval,Dambulla,Matale,Central,Club,turf,134.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,30000.0,4.0
+463.0,Dambulla School Ground,Dambulla,Matale,Central,School,matting,110.0,105.0,No,Yes,Yes,Yes,No,2.0,70.0,20000.0,3.0
+464.0,Dambulla Sports Complex,Dambulla,Matale,Central,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,44000.0,5.0
+465.0,Pallekele Cricket Park,Pallekele,Kandy,Central,Club,turf,142.0,145.0,Yes,Yes,Yes,Yes,Yes,3.0,250.0,65000.0,5.0
+466.0,Pallekele Youth Field,Pallekele,Kandy,Central,Public,matting,119.0,113.0,No,Yes,Yes,No,Yes,1.0,48.0,18000.0,3.0
+467.0,Pallekele Town Oval,Pallekele,Kandy,Central,Club,turf,135.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,34000.0,4.0
+468.0,Pallekele School Field,Pallekele,Kandy,Central,School,matting,111.0,108.0,No,Yes,Yes,Yes,No,2.0,65.0,21000.0,3.0
+469.0,Pallekele Sports Village,Pallekele,Kandy,Central,Public,turf,139.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,220.0,46000.0,5.0
+470.0,Hambantota Cricket Arena,Hambantota,Hambantota,Southern,Club,turf,141.0,144.0,Yes,Yes,Yes,Yes,Yes,3.0,240.0,58000.0,5.0
+471.0,Hambantota Youth Field,Hambantota,Hambantota,Southern,Public,matting,118.0,111.0,No,Yes,Yes,No,Yes,1.0,40.0,17000.0,3.0
+472.0,Hambantota City Ground,Hambantota,Hambantota,Southern,Club,turf,134.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,30000.0,4.0
+473.0,Hambantota School Field,Hambantota,Hambantota,Southern,School,matting,110.0,107.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+474.0,Hambantota Sports Park,Hambantota,Hambantota,Southern,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,220.0,42000.0,5.0
+475.0,Moratuwa Cricket Park,Moratuwa,Colombo,Western,Club,turf,137.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,39000.0,4.0
+476.0,Moratuwa Youth Field,Moratuwa,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,Yes,1.0,45.0,16000.0,3.0
+477.0,Moratuwa City Oval,Moratuwa,Colombo,Western,Club,turf,134.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,28000.0,4.0
+478.0,Moratuwa College Ground,Moratuwa,Colombo,Western,School,matting,110.0,106.0,No,Yes,Yes,Yes,No,2.0,65.0,20000.0,3.0
+479.0,Moratuwa Sports Arena,Moratuwa,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,43000.0,5.0
+480.0,Panadura Cricket Arena,Panadura,Kalutara,Western,Club,turf,137.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,38000.0,4.0
+481.0,Panadura Youth Field,Panadura,Kalutara,Western,Public,matting,119.0,114.0,No,Yes,Yes,No,Yes,1.0,50.0,16000.0,3.0
+482.0,Panadura City Oval,Panadura,Kalutara,Western,Club,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,29000.0,4.0
+483.0,Panadura School Ground,Panadura,Kalutara,Western,School,matting,110.0,107.0,No,Yes,Yes,Yes,No,2.0,65.0,21000.0,3.0
+484.0,Panadura Sports Park,Panadura,Kalutara,Western,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,43000.0,5.0
+485.0,Chilaw Cricket Arena,Chilaw,Puttalam,North Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,36000.0,4.0
+486.0,Chilaw Youth Field,Chilaw,Puttalam,North Western,Public,matting,118.0,113.0,No,Yes,Yes,No,Yes,1.0,45.0,16000.0,3.0
+487.0,Chilaw City Oval,Chilaw,Puttalam,North Western,Club,turf,134.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,28000.0,4.0
+488.0,Chilaw School Field,Chilaw,Puttalam,North Western,School,matting,110.0,106.0,No,Yes,Yes,Yes,No,2.0,65.0,20000.0,3.0
+489.0,Chilaw Sports Complex,Chilaw,Puttalam,North Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,5.0
+490.0,Sinhalese Sports Club Ground,Colombo,Colombo,Western,Club,turf,145.0,148.0,Yes,Yes,Yes,Yes,Yes,4.0,300.0,95000.0,5.0
+491.0,Paikiasothy Saravanamuttu Stadium,Colombo,Colombo,Western,Club,turf,142.0,146.0,Yes,Yes,Yes,Yes,Yes,3.0,260.0,87000.0,5.0
+492.0,Colombo Cricket Club Ground,Colombo,Colombo,Western,Club,turf,140.0,143.0,Yes,Yes,Yes,Yes,Yes,3.0,230.0,76000.0,5.0
+493.0,Thurstan College Cricket Ground,Colombo,Colombo,Western,School,matting,118.0,114.0,No,Yes,Yes,Yes,No,2.0,70.0,22000.0,3.0
+494.0,Royal College Sports Complex,Colombo,Colombo,Western,School,turf,130.0,133.0,Yes,Yes,Yes,Yes,Yes,2.0,120.0,38000.0,4.0
+495.0,Trinity College Cricket Ground,Kandy,Kandy,Central,School,turf,134.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,35000.0,4.0
+496.0,St. Anthony's College Ground,Kandy,Kandy,Central,School,matting,120.0,118.0,No,Yes,Yes,Yes,No,2.0,80.0,21000.0,3.0
+497.0,Katugastota Police Ground,Kandy,Kandy,Central,Public,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,3.0,180.0,42000.0,4.0
+498.0,Matale Town Public Ground,Matale,Matale,Central,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+499.0,Vijaya College Ground,Matale,Matale,Central,School,matting,115.0,110.0,No,Yes,Yes,Yes,No,2.0,70.0,21000.0,3.0
+500.0,Richmond College Cricket Ground,Galle,Galle,Southern,School,turf,132.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,37000.0,4.0
+501.0,Mahinda College Ground,Galle,Galle,Southern,School,turf,134.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,36000.0,4.0
+502.0,Galle Municipal Ground,Galle,Galle,Southern,Public,matting,119.0,113.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+503.0,Uyanwatta Stadium,Matara,Matara,Southern,Public,turf,138.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,45000.0,4.0
+504.0,St. Servatius College Ground,Matara,Matara,Southern,School,matting,116.0,111.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+505.0,Hambantota Public Sports Ground,Hambantota,Hambantota,Southern,Public,turf,137.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,47000.0,4.0
+506.0,Debarawewa Cricket Ground,Tissamaharama,Hambantota,Southern,Public,matting,118.0,114.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+507.0,Kurunegala Municipal Ground,Kurunegala,Kurunegala,North Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+508.0,Maliyadeva College Ground,Kurunegala,Kurunegala,North Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+509.0,St. Anne's College Ground,Kurunegala,Kurunegala,North Western,School,turf,132.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,140.0,33000.0,4.0
+510.0,St. Peter's College Ground,Negombo,Gampaha,Western,School,matting,117.0,111.0,No,Yes,Yes,Yes,No,2.0,70.0,20000.0,3.0
+511.0,Maris Stella College Ground,Negombo,Gampaha,Western,School,turf,132.0,134.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,35000.0,4.0
+512.0,FTZ Sports Complex,Katunayake,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,45000.0,4.0
+513.0,Marians Cricket Club Ground,Negombo,Gampaha,Western,Club,turf,135.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+514.0,Police Ground Negombo,Negombo,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+515.0,St. Thomas College Ground,Mount Lavinia,Colombo,Western,School,turf,132.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,36000.0,4.0
+516.0,De Soysa Stadium,Moratuwa,Colombo,Western,Club,turf,140.0,144.0,Yes,Yes,Yes,Yes,Yes,3.0,230.0,62000.0,5.0
+517.0,University of Moratuwa Ground,Katubedda,Colombo,Western,Public,matting,118.0,113.0,No,Yes,Yes,No,No,1.0,55.0,18000.0,3.0
+518.0,Panadura Public Ground,Panadura,Kalutara,Western,Public,matting,117.0,111.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+519.0,Kalutara Town Cricket Ground,Kalutara,Kalutara,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,35000.0,4.0
+520.0,Ananda College Cricket Ground,Colombo,Colombo,Western,School,turf,132.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,140.0,34000.0,4.0
+521.0,Nalanda College Ground,Colombo,Colombo,Western,School,turf,130.0,134.0,Yes,Yes,Yes,Yes,Yes,2.0,135.0,33000.0,4.0
+522.0,Isipathana College Ground,Colombo,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,70.0,21000.0,3.0
+523.0,Wesley College Cricket Ground,Colombo,Colombo,Western,School,turf,131.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,140.0,35000.0,4.0
+524.0,St. Joseph’s College Ground,Colombo,Colombo,Western,School,turf,133.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,36000.0,4.0
+525.0,Bloomfield Cricket Club Ground,Colombo,Colombo,Western,Club,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+526.0,Colts Cricket Club Ground,Colombo,Colombo,Western,Club,turf,139.0,143.0,Yes,Yes,Yes,Yes,Yes,3.0,220.0,43000.0,4.0
+527.0,Moors Sports Club Ground,Colombo,Colombo,Western,Club,turf,137.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,41000.0,4.0
+528.0,NCC Cricket Ground,Colombo,Colombo,Western,Club,turf,140.0,144.0,Yes,Yes,Yes,Yes,Yes,3.0,230.0,47000.0,5.0
+529.0,Police Park Cricket Ground,Colombo,Colombo,Western,Public,turf,135.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,39000.0,4.0
+530.0,Zahira College Cricket Ground,Colombo,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+531.0,Carey College Cricket Ground,Colombo,Colombo,Western,School,matting,116.0,110.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+532.0,St. Benedict's College Ground,Colombo,Colombo,Western,School,turf,130.0,134.0,Yes,Yes,Yes,Yes,Yes,2.0,140.0,33000.0,4.0
+533.0,St. Peter's College Ground,Bambalapitiya,Colombo,Western,School,turf,131.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,140.0,35000.0,4.0
+534.0,University of Colombo Grounds,Colombo,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+535.0,University of Peradeniya Ground,Peradeniya,Kandy,Central,Public,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,37000.0,4.0
+536.0,Dharmaraja College Ground,Kandy,Kandy,Central,School,turf,132.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,35000.0,4.0
+537.0,Kingswood College Ground,Kandy,Kandy,Central,School,matting,117.0,111.0,No,Yes,Yes,Yes,No,2.0,65.0,20000.0,3.0
+538.0,St. Sylvester’s College Ground,Kandy,Kandy,Central,School,turf,131.0,134.0,Yes,Yes,Yes,Yes,Yes,2.0,140.0,33000.0,4.0
+539.0,Kandy Municipal Grounds,Kandy,Kandy,Central,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+540.0,Vidyartha College Ground,Kandy,Kandy,Central,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+541.0,Sri Lanka Army Ground Panagoda,Homagama,Colombo,Western,Public,turf,137.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+542.0,Air Force Ground Katunayake,Katunayake,Gampaha,Western,Public,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,39000.0,4.0
+543.0,Navy Ground Welisara,Welisara,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,38000.0,4.0
+544.0,Gampaha Municipal Grounds,Gampaha,Gampaha,Western,Public,matting,118.0,113.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+545.0,St. Mary's College Ground,Chilaw,Puttalam,North Western,School,matting,117.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+546.0,St. Anne’s College Grounds,Kurunegala,Kurunegala,North Western,School,turf,131.0,134.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,34000.0,4.0
+547.0,Maliyadeva College Grounds,Kurunegala,Kurunegala,North Western,School,turf,132.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,35000.0,4.0
+548.0,Wayamba University Ground,Kuliyapitiya,Kurunegala,North Western,Public,matting,118.0,113.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+549.0,Kurunegala Municipal Stadium,Kurunegala,Kurunegala,North Western,Public,turf,135.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+550.0,Jaffna Central College Ground,Jaffna,Jaffna,Northern,School,turf,132.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,34000.0,4.0
+551.0,St. Patrick's College Ground,Jaffna,Jaffna,Northern,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+552.0,Jaffna Municipal Ground,Jaffna,Jaffna,Northern,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+553.0,University of Jaffna Ground,Jaffna,Jaffna,Northern,Public,matting,118.0,113.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+554.0,Jaffna Cricket Club Ground,Jaffna,Jaffna,Northern,Club,turf,136.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+555.0,Kilinochchi Public Ground,Kilinochchi,Kilinochchi,Northern,Public,matting,117.0,111.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+556.0,Kilinochchi Central Sports Ground,Kilinochchi,Kilinochchi,Northern,Public,turf,133.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,34000.0,4.0
+557.0,Kilinochchi District Ground,Kilinochchi,Kilinochchi,Northern,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,18000.0,3.0
+558.0,Kilinochchi Cricket Club Ground,Kilinochchi,Kilinochchi,Northern,Club,turf,134.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,35000.0,4.0
+559.0,Kilinochchi Town Ground,Kilinochchi,Kilinochchi,Northern,Public,matting,116.0,110.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+560.0,Vavuniya Public Ground,Vavuniya,Vavuniya,Northern,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+561.0,Vavuniya District Stadium,Vavuniya,Vavuniya,Northern,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+562.0,Vavuniya Central College Ground,Vavuniya,Vavuniya,Northern,School,matting,118.0,113.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+563.0,Vavuniya Cricket Club Ground,Vavuniya,Vavuniya,Northern,Club,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,38000.0,4.0
+564.0,Vavuniya Sports Complex,Vavuniya,Vavuniya,Northern,Public,turf,136.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+565.0,Mannar Public Ground,Mannar,Mannar,Northern,Public,matting,117.0,111.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+566.0,Mannar Central Sports Ground,Mannar,Mannar,Northern,Public,turf,133.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+567.0,Mannar District Ground,Mannar,Mannar,Northern,Public,matting,116.0,110.0,No,Yes,Yes,No,No,1.0,50.0,18000.0,3.0
+568.0,Mannar Cricket Club Ground,Mannar,Mannar,Northern,Club,turf,134.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,35000.0,4.0
+569.0,Mannar Sports Stadium,Mannar,Mannar,Northern,Public,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+570.0,Batticaloa Central College Ground,Batticaloa,Batticaloa,Eastern,School,turf,132.0,135.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,34000.0,4.0
+571.0,St. Michael's College Ground,Batticaloa,Batticaloa,Eastern,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+572.0,Batticaloa Municipal Ground,Batticaloa,Batticaloa,Eastern,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+573.0,Batticaloa Cricket Club Ground,Batticaloa,Batticaloa,Eastern,Club,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,38000.0,4.0
+574.0,Batticaloa Sports Complex,Batticaloa,Batticaloa,Eastern,Public,turf,136.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+575.0,Ampara Public Ground,Ampara,Ampara,Eastern,Public,matting,118.0,113.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+576.0,Ampara Central Sports Ground,Ampara,Ampara,Eastern,Public,turf,133.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,34000.0,4.0
+577.0,Ampara District Ground,Ampara,Ampara,Eastern,Public,matting,117.0,111.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+578.0,Ampara Cricket Club Ground,Ampara,Ampara,Eastern,Club,turf,134.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,35000.0,4.0
+579.0,Ampara Sports Stadium,Ampara,Ampara,Eastern,Public,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+580.0,Monaragala Public Ground,Monaragala,Monaragala,Uva,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+581.0,Monaragala District Stadium,Monaragala,Monaragala,Uva,Public,turf,134.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+582.0,Monaragala Central College Ground,Monaragala,Monaragala,Uva,School,matting,117.0,111.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+583.0,Monaragala Cricket Club Ground,Monaragala,Monaragala,Uva,Club,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+584.0,Monaragala Sports Complex,Monaragala,Monaragala,Uva,Public,turf,136.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+585.0,Badulla Public Ground,Badulla,Badulla,Uva,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+586.0,Badulla Municipal Ground,Badulla,Badulla,Uva,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+587.0,Badulla Central College Ground,Badulla,Badulla,Uva,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+588.0,Badulla Cricket Club Ground,Badulla,Badulla,Uva,Club,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+589.0,Badulla Sports Complex,Badulla,Badulla,Uva,Public,turf,136.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+590.0,Bandarawela Public Ground,Bandarawela,Badulla,Uva,Public,matting,117.0,111.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+591.0,Bandarawela Municipal Ground,Bandarawela,Badulla,Uva,Public,turf,133.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,35000.0,4.0
+592.0,Bandarawela Central College Ground,Bandarawela,Badulla,Uva,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+593.0,Bandarawela Cricket Club Ground,Bandarawela,Badulla,Uva,Club,turf,134.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+594.0,Bandarawela Sports Complex,Bandarawela,Badulla,Uva,Public,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+595.0,Ratnapura Public Ground,Ratnapura,Ratnapura,Sabaragamuwa,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+596.0,Ratnapura Municipal Ground,Ratnapura,Ratnapura,Sabaragamuwa,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+597.0,Ratnapura Central College Ground,Ratnapura,Ratnapura,Sabaragamuwa,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+598.0,Ratnapura Cricket Club Ground,Ratnapura,Ratnapura,Sabaragamuwa,Club,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+599.0,Ratnapura Sports Complex,Ratnapura,Ratnapura,Sabaragamuwa,Public,turf,136.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+600.0,Kegalle Public Ground,Kegalle,Kegalle,Sabaragamuwa,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+601.0,Kegalle Municipal Ground,Kegalle,Kegalle,Sabaragamuwa,Public,turf,133.0,136.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,35000.0,4.0
+602.0,Kegalle Central College Ground,Kegalle,Kegalle,Sabaragamuwa,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+603.0,Kegalle Cricket Club Ground,Kegalle,Kegalle,Sabaragamuwa,Club,turf,134.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+604.0,Kegalle Sports Complex,Kegalle,Kegalle,Sabaragamuwa,Public,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+605.0,Polonnaruwa Public Ground,Polonnaruwa,Polonnaruwa,North Central,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+606.0,Polonnaruwa Municipal Ground,Polonnaruwa,Polonnaruwa,North Central,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+607.0,Polonnaruwa Central College Ground,Polonnaruwa,Polonnaruwa,North Central,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+608.0,Polonnaruwa Cricket Club Ground,Polonnaruwa,Polonnaruwa,North Central,Club,turf,135.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+609.0,Polonnaruwa Sports Complex,Polonnaruwa,Polonnaruwa,North Central,Public,turf,136.0,140.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+610.0,Dambulla Public Ground,Dambulla,Matale,Central,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+611.0,Dambulla Municipal Ground,Dambulla,Matale,Central,Public,turf,135.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+612.0,Dambulla Central College Ground,Dambulla,Matale,Central,School,matting,117.0,111.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+613.0,Dambulla Cricket Club Ground,Dambulla,Matale,Central,Club,turf,136.0,140.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+614.0,Dambulla Sports Complex,Dambulla,Matale,Central,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+615.0,Matale Public Ground,Matale,Matale,Central,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+616.0,Matale Municipal Stadium,Matale,Matale,Central,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,35000.0,4.0
+617.0,Matale Central College Ground,Matale,Matale,Central,School,matting,118.0,113.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+618.0,Matale Cricket Club Ground,Matale,Matale,Central,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+619.0,Matale Sports Ground,Matale,Matale,Central,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+620.0,Hambantota Public Ground,Hambantota,Hambantota,Southern,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+621.0,Hambantota Municipal Stadium,Hambantota,Hambantota,Southern,Public,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+622.0,Hambantota Central College Ground,Hambantota,Hambantota,Southern,School,matting,117.0,111.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+623.0,Hambantota Cricket Club Ground,Hambantota,Hambantota,Southern,Club,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,39000.0,4.0
+624.0,Hambantota Sports Complex,Hambantota,Hambantota,Southern,Public,turf,140.0,144.0,Yes,Yes,Yes,Yes,Yes,3.0,220.0,45000.0,5.0
+625.0,Tangalle Public Ground,Tangalle,Hambantota,Southern,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+626.0,Tangalle Town Ground,Tangalle,Hambantota,Southern,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+627.0,Tangalle Central College Ground,Tangalle,Hambantota,Southern,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+628.0,Tangalle Cricket Club Ground,Tangalle,Hambantota,Southern,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+629.0,Tangalle Sports Ground,Tangalle,Hambantota,Southern,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+630.0,Trincomalee Public Ground,Trincomalee,Trincomalee,Eastern,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+631.0,Trincomalee Municipal Stadium,Trincomalee,Trincomalee,Eastern,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+632.0,Trincomalee Central College Ground,Trincomalee,Trincomalee,Eastern,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+633.0,Trincomalee Cricket Club Ground,Trincomalee,Trincomalee,Eastern,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+634.0,Trincomalee Sports Complex,Trincomalee,Trincomalee,Eastern,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+635.0,Kalmunai Public Ground,Kalmunai,Ampara,Eastern,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+636.0,Kalmunai Town Ground,Kalmunai,Ampara,Eastern,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+637.0,Kalmunai Central College Ground,Kalmunai,Ampara,Eastern,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+638.0,Kalmunai Cricket Club Ground,Kalmunai,Ampara,Eastern,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+639.0,Kalmunai Sports Complex,Kalmunai,Ampara,Eastern,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+640.0,Nuwara Eliya Public Ground,Nuwara Eliya,Nuwara Eliya,Central,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+641.0,Nuwara Eliya Municipal Ground,Nuwara Eliya,Nuwara Eliya,Central,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+642.0,Nuwara Eliya Central College Ground,Nuwara Eliya,Nuwara Eliya,Central,School,matting,118.0,113.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+643.0,Nuwara Eliya Cricket Club Ground,Nuwara Eliya,Nuwara Eliya,Central,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+644.0,Nuwara Eliya Sports Complex,Nuwara Eliya,Nuwara Eliya,Central,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+645.0,Hatton Public Ground,Hatton,Nuwara Eliya,Central,Public,matting,117.0,111.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+646.0,Hatton Town Ground,Hatton,Nuwara Eliya,Central,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+647.0,Hatton Central College Ground,Hatton,Nuwara Eliya,Central,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+648.0,Hatton Cricket Club Ground,Hatton,Nuwara Eliya,Central,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+649.0,Hatton Sports Complex,Hatton,Nuwara Eliya,Central,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+650.0,Kalutara Public Ground,Kalutara,Kalutara,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+651.0,Kalutara Municipal Stadium,Kalutara,Kalutara,Western,Public,turf,135.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+652.0,Kalutara Central College Ground,Kalutara,Kalutara,Western,School,matting,118.0,113.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+653.0,Kalutara Cricket Club Ground,Kalutara,Kalutara,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+654.0,Kalutara Sports Complex,Kalutara,Kalutara,Western,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+655.0,Panadura Public Ground,Panadura,Kalutara,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+656.0,Panadura Town Ground,Panadura,Kalutara,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+657.0,Panadura Central College Ground,Panadura,Kalutara,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+658.0,Panadura Cricket Club Ground,Panadura,Kalutara,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+659.0,Panadura Sports Complex,Panadura,Kalutara,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+660.0,Gampola Public Ground,Gampola,Kandy,Central,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+661.0,Gampola Municipal Stadium,Gampola,Kandy,Central,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+662.0,Gampola Central College Ground,Gampola,Kandy,Central,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+663.0,Gampola Cricket Club Ground,Gampola,Kandy,Central,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+664.0,Gampola Sports Complex,Gampola,Kandy,Central,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+665.0,Puttalam Public Ground,Puttalam,Puttalam,North Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+666.0,Puttalam Municipal Ground,Puttalam,Puttalam,North Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+667.0,Puttalam Central College Ground,Puttalam,Puttalam,North Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+668.0,Puttalam Cricket Club Ground,Puttalam,Puttalam,North Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+669.0,Puttalam Sports Complex,Puttalam,Puttalam,North Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+670.0,Kuliyapitiya Public Ground,Kuliyapitiya,Kurunegala,North Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+671.0,Kuliyapitiya Town Ground,Kuliyapitiya,Kurunegala,North Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+672.0,Kuliyapitiya Central College Ground,Kuliyapitiya,Kurunegala,North Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+673.0,Kuliyapitiya Cricket Club Ground,Kuliyapitiya,Kurunegala,North Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+674.0,Kuliyapitiya Sports Complex,Kuliyapitiya,Kurunegala,North Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+675.0,Chilaw Public Ground,Chilaw,Puttalam,North Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+676.0,Chilaw Municipal Ground,Chilaw,Puttalam,North Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,35000.0,4.0
+677.0,Chilaw Central College Ground,Chilaw,Puttalam,North Western,School,matting,118.0,113.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+678.0,Chilaw Cricket Club Ground,Chilaw,Puttalam,North Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+679.0,Chilaw Sports Complex,Chilaw,Puttalam,North Western,Public,turf,138.0,142.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+680.0,Anuradhapura Public Ground,Anuradhapura,Anuradhapura,North Central,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+681.0,Anuradhapura Municipal Stadium,Anuradhapura,Anuradhapura,North Central,Public,turf,135.0,138.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+682.0,Anuradhapura Central College Ground,Anuradhapura,Anuradhapura,North Central,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+683.0,Anuradhapura Cricket Club Ground,Anuradhapura,Anuradhapura,North Central,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+684.0,Anuradhapura Sports Complex,Anuradhapura,Anuradhapura,North Central,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+685.0,Mihintale Public Ground,Mihintale,Anuradhapura,North Central,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+686.0,Mihintale Town Ground,Mihintale,Anuradhapura,North Central,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+687.0,Mihintale Central College Ground,Mihintale,Anuradhapura,North Central,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+688.0,Mihintale Cricket Club Ground,Mihintale,Anuradhapura,North Central,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+689.0,Mihintale Sports Complex,Mihintale,Anuradhapura,North Central,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+690.0,Wellawaya Public Ground,Wellawaya,Monaragala,Uva,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+691.0,Wellawaya Town Ground,Wellawaya,Monaragala,Uva,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,35000.0,4.0
+692.0,Wellawaya Central College Ground,Wellawaya,Monaragala,Uva,School,matting,118.0,113.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+693.0,Wellawaya Cricket Club Ground,Wellawaya,Monaragala,Uva,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+694.0,Wellawaya Sports Complex,Wellawaya,Monaragala,Uva,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+695.0,Embilipitiya Public Ground,Embilipitiya,Ratnapura,Sabaragamuwa,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+696.0,Embilipitiya Municipal Ground,Embilipitiya,Ratnapura,Sabaragamuwa,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+697.0,Embilipitiya Central College Ground,Embilipitiya,Ratnapura,Sabaragamuwa,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+698.0,Embilipitiya Cricket Club Ground,Embilipitiya,Ratnapura,Sabaragamuwa,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+699.0,Embilipitiya Sports Complex,Embilipitiya,Ratnapura,Sabaragamuwa,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+700.0,Tissamaharama Public Ground,Tissamaharama,Hambantota,Southern,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+701.0,Tissamaharama Town Ground,Tissamaharama,Hambantota,Southern,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+702.0,Tissamaharama Central College Ground,Tissamaharama,Hambantota,Southern,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+703.0,Tissamaharama Cricket Club Ground,Tissamaharama,Hambantota,Southern,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+704.0,Tissamaharama Sports Complex,Tissamaharama,Hambantota,Southern,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+705.0,Kataragama Public Ground,Kataragama,Monaragala,Uva,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+706.0,Kataragama Town Ground,Kataragama,Monaragala,Uva,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+707.0,Kataragama Central College Ground,Kataragama,Monaragala,Uva,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+708.0,Kataragama Cricket Club Ground,Kataragama,Monaragala,Uva,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+709.0,Kataragama Sports Complex,Kataragama,Monaragala,Uva,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+710.0,Dehiwala Public Ground,Dehiwala,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+711.0,Dehiwala Municipal Ground,Dehiwala,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+712.0,Dehiwala Central College Ground,Dehiwala,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+713.0,Dehiwala Cricket Club Ground,Dehiwala,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,38000.0,4.0
+714.0,Dehiwala Sports Complex,Dehiwala,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+715.0,Kesbewa Public Ground,Kesbewa,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+716.0,Kesbewa Town Ground,Kesbewa,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+717.0,Kesbewa Central College Ground,Kesbewa,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+718.0,Kesbewa Cricket Club Ground,Kesbewa,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+719.0,Kesbewa Sports Complex,Kesbewa,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+720.0,Horana Public Ground,Horana,Kalutara,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+721.0,Horana Town Ground,Horana,Kalutara,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+722.0,Horana Central College Ground,Horana,Kalutara,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+723.0,Horana Cricket Club Ground,Horana,Kalutara,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+724.0,Horana Sports Complex,Horana,Kalutara,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+725.0,Bandaragama Public Ground,Bandaragama,Kalutara,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+726.0,Bandaragama Town Ground,Bandaragama,Kalutara,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+727.0,Bandaragama Central College Ground,Bandaragama,Kalutara,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+728.0,Bandaragama Cricket Club Ground,Bandaragama,Kalutara,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+729.0,Bandaragama Sports Complex,Bandaragama,Kalutara,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+730.0,Kaduwela Public Ground,Kaduwela,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+731.0,Kaduwela Town Ground,Kaduwela,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+732.0,Kaduwela Central College Ground,Kaduwela,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+733.0,Kaduwela Cricket Club Ground,Kaduwela,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+734.0,Kaduwela Sports Complex,Kaduwela,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+735.0,Maharagama Public Ground,Maharagama,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+736.0,Maharagama Town Ground,Maharagama,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+737.0,Maharagama Central College Ground,Maharagama,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+738.0,Maharagama Cricket Club Ground,Maharagama,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+739.0,Maharagama Sports Complex,Maharagama,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+740.0,Homagama Public Ground,Homagama,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+741.0,Homagama Town Ground,Homagama,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+742.0,Homagama Central College Ground,Homagama,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+743.0,Homagama Cricket Club Ground,Homagama,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+744.0,Homagama Sports Complex,Homagama,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+745.0,Avissawella Public Ground,Avissawella,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+746.0,Avissawella Town Ground,Avissawella,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+747.0,Avissawella Central College Ground,Avissawella,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+748.0,Avissawella Cricket Club Ground,Avissawella,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+749.0,Avissawella Sports Complex,Avissawella,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+750.0,Peliyagoda Public Ground,Peliyagoda,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+751.0,Peliyagoda Town Ground,Peliyagoda,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+752.0,Peliyagoda Central College Ground,Peliyagoda,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+753.0,Peliyagoda Cricket Club Ground,Peliyagoda,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+754.0,Peliyagoda Sports Complex,Peliyagoda,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+755.0,Wattala Public Ground,Wattala,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+756.0,Wattala Town Ground,Wattala,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+757.0,Wattala Central College Ground,Wattala,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+758.0,Wattala Cricket Club Ground,Wattala,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+759.0,Wattala Sports Complex,Wattala,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+760.0,Kelaniya Public Ground,Kelaniya,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+761.0,Kelaniya Town Ground,Kelaniya,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+762.0,Kelaniya Central College Ground,Kelaniya,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+763.0,Kelaniya Cricket Club Ground,Kelaniya,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+764.0,Kelaniya Sports Complex,Kelaniya,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+765.0,Kadawatha Public Ground,Kadawatha,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+766.0,Kadawatha Town Ground,Kadawatha,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+767.0,Kadawatha Central College Ground,Kadawatha,Gampaha,Western,School,matting,117.0,111.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+768.0,Kadawatha Cricket Club Ground,Kadawatha,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+769.0,Kadawatha Sports Complex,Kadawatha,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,40000.0,4.0
+770.0,Ja-Ela Public Ground,Ja-Ela,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+771.0,Ja-Ela Town Ground,Ja-Ela,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+772.0,Ja-Ela Central College Ground,Ja-Ela,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+773.0,Ja-Ela Cricket Club Ground,Ja-Ela,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+774.0,Ja-Ela Sports Complex,Ja-Ela,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+775.0,Minuwangoda Public Ground,Minuwangoda,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+776.0,Minuwangoda Town Ground,Minuwangoda,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+777.0,Minuwangoda Central College Ground,Minuwangoda,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+778.0,Minuwangoda Cricket Club Ground,Minuwangoda,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+779.0,Minuwangoda Sports Complex,Minuwangoda,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+780.0,Veyangoda Public Ground,Veyangoda,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+781.0,Veyangoda Town Ground,Veyangoda,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+782.0,Veyangoda Central College Ground,Veyangoda,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+783.0,Veyangoda Cricket Club Ground,Veyangoda,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+784.0,Veyangoda Sports Complex,Veyangoda,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+785.0,Katunayake Public Ground,Katunayake,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+786.0,Katunayake Town Ground,Katunayake,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+787.0,Katunayake Central College Ground,Katunayake,Gampaha,Western,School,matting,117.0,111.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+788.0,Katunayake Cricket Club Ground,Katunayake,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+789.0,Katunayake Sports Complex,Katunayake,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+790.0,Ragama Public Ground,Ragama,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+791.0,Ragama Town Ground,Ragama,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+792.0,Ragama Central College Ground,Ragama,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+793.0,Ragama Cricket Club Ground,Ragama,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+794.0,Ragama Sports Complex,Ragama,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+795.0,Kiribathgoda Public Ground,Kiribathgoda,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+796.0,Kiribathgoda Town Ground,Kiribathgoda,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+797.0,Kiribathgoda Central College Ground,Kiribathgoda,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+798.0,Kiribathgoda Cricket Club Ground,Kiribathgoda,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+799.0,Kiribathgoda Sports Complex,Kiribathgoda,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+800.0,Maharagama Youth Ground,Maharagama,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+801.0,Maharagama Town Ground,Maharagama,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+802.0,Maharagama College Ground,Maharagama,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+803.0,Maharagama Cricket Club Ground,Maharagama,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+804.0,Maharagama Sports Complex,Maharagama,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+805.0,Moratuwa Public Ground,Moratuwa,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+806.0,Moratuwa Town Ground,Moratuwa,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+807.0,Moratuwa Central College Ground,Moratuwa,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+808.0,Moratuwa Cricket Club Ground,Moratuwa,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+809.0,Moratuwa Sports Complex,Moratuwa,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+810.0,Piliyandala Public Ground,Piliyandala,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+811.0,Piliyandala Town Ground,Piliyandala,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+812.0,Piliyandala Central College Ground,Piliyandala,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+813.0,Piliyandala Cricket Club Ground,Piliyandala,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+814.0,Piliyandala Sports Complex,Piliyandala,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+815.0,Dehiwala Public Ground,Dehiwala,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+816.0,Dehiwala Town Ground,Dehiwala,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+817.0,Dehiwala Central College Ground,Dehiwala,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+818.0,Dehiwala Cricket Club Ground,Dehiwala,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+819.0,Dehiwala Sports Complex,Dehiwala,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+820.0,Mount Lavinia Public Ground,Mount Lavinia,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+821.0,Mount Lavinia Town Ground,Mount Lavinia,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+822.0,Mount Lavinia Central College Ground,Mount Lavinia,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+823.0,Mount Lavinia Cricket Club Ground,Mount Lavinia,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+824.0,Mount Lavinia Sports Complex,Mount Lavinia,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+825.0,Wellawatte Public Ground,Wellawatte,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+826.0,Wellawatte Town Ground,Wellawatte,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+827.0,Wellawatte College Ground,Wellawatte,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+828.0,Wellawatte Cricket Club Ground,Wellawatte,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+829.0,Wellawatte Sports Complex,Wellawatte,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+830.0,Nugegoda Public Ground,Nugegoda,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+831.0,Nugegoda Town Ground,Nugegoda,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+832.0,Nugegoda Central College Ground,Nugegoda,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+833.0,Nugegoda Cricket Club Ground,Nugegoda,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+834.0,Nugegoda Sports Complex,Nugegoda,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+835.0,Kotte Public Ground,Kotte,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+836.0,Kotte Town Ground,Kotte,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+837.0,Kotte Central College Ground,Kotte,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+838.0,Kotte Cricket Club Ground,Kotte,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+839.0,Kotte Sports Complex,Kotte,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+840.0,Battaramulla Public Ground,Battaramulla,Colombo,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+841.0,Battaramulla Town Ground,Battaramulla,Colombo,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+842.0,Battaramulla College Ground,Battaramulla,Colombo,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+843.0,Battaramulla Cricket Club Ground,Battaramulla,Colombo,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+844.0,Battaramulla Sports Complex,Battaramulla,Colombo,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+845.0,Welisara Public Ground,Welisara,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+846.0,Welisara Town Ground,Welisara,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+847.0,Welisara Central College Ground,Welisara,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+848.0,Welisara Cricket Club Ground,Welisara,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+849.0,Welisara Sports Complex,Welisara,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+850.0,Kandana Public Ground,Kandana,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+851.0,Kandana Town Ground,Kandana,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+852.0,Kandana Central College Ground,Kandana,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+853.0,Kandana Cricket Club Ground,Kandana,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+854.0,Kandana Sports Complex,Kandana,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+855.0,Divulapitiya Public Ground,Divulapitiya,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+856.0,Divulapitiya Town Ground,Divulapitiya,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+857.0,Divulapitiya College Ground,Divulapitiya,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+858.0,Divulapitiya Cricket Club Ground,Divulapitiya,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+859.0,Divulapitiya Sports Complex,Divulapitiya,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+860.0,Kalagedihena Public Ground,Kalagedihena,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+861.0,Kalagedihena Town Ground,Kalagedihena,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+862.0,Kalagedihena Central College Ground,Kalagedihena,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+863.0,Kalagedihena Cricket Club Ground,Kalagedihena,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+864.0,Kalagedihena Sports Complex,Kalagedihena,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+865.0,Wattala Public Ground,Wattala,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+866.0,Wattala Town Ground,Wattala,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+867.0,Wattala Central College Ground,Wattala,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+868.0,Wattala Cricket Club Ground,Wattala,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+869.0,Wattala Sports Complex,Wattala,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+870.0,Kelaniya Public Ground,Kelaniya,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+871.0,Kelaniya Town Ground,Kelaniya,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+872.0,Kelaniya Central College Ground,Kelaniya,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+873.0,Kelaniya Cricket Club Ground,Kelaniya,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+874.0,Kelaniya Sports Complex,Kelaniya,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+875.0,Ragama Public Ground,Ragama,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,45.0,17000.0,3.0
+876.0,Ragama Town Ground,Ragama,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+877.0,Ragama Central College Ground,Ragama,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+878.0,Ragama Cricket Club Ground,Ragama,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+879.0,Ragama Sports Complex,Ragama,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,42000.0,4.0
+880.0,Ja-Ela Public Ground,Ja-Ela,Gampaha,Western,Public,matting,118.0,112.0,No,Yes,Yes,No,No,1.0,50.0,17000.0,3.0
+881.0,Ja-Ela Town Ground,Ja-Ela,Gampaha,Western,Public,turf,134.0,137.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,34000.0,4.0
+882.0,Ja-Ela Central College Ground,Ja-Ela,Gampaha,Western,School,matting,118.0,112.0,No,Yes,Yes,Yes,No,2.0,60.0,20000.0,3.0
+883.0,Ja-Ela Cricket Club Ground,Ja-Ela,Gampaha,Western,Club,turf,136.0,139.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,36000.0,4.0
+884.0,Ja-Ela Sports Complex,Ja-Ela,Gampaha,Western,Public,turf,138.0,141.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,42000.0,4.0
+885.0,Police Park Ground,Colombo,Colombo,Western,Public,turf,134.0,132.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,55000.0,4.0
+886.0,Army Grounds Panagoda,Homagama,Colombo,Western,Public,turf,136.0,134.0,Yes,Yes,Yes,Yes,Yes,3.0,220.0,60000.0,4.0
+887.0,Air Force Ground Katunayake,Katunayake,Gampaha,Western,Public,turf,135.0,133.0,Yes,Yes,Yes,Yes,Yes,3.0,210.0,58000.0,4.0
+888.0,Navy Ground Welisara,Welisara,Gampaha,Western,Public,turf,134.0,131.0,Yes,Yes,Yes,Yes,Yes,3.0,200.0,56000.0,4.0
+889.0,Army Ground Diyatalawa,Diyatalawa,Badulla,Uva,Public,turf,133.0,130.0,Yes,Yes,Yes,Yes,Yes,3.0,180.0,52000.0,4.0
+890.0,Police Ground Kandy,Kandy,Kandy,Central,Public,turf,132.0,130.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,50000.0,4.0
+891.0,Police Ground Kurunegala,Kurunegala,Kurunegala,NW,Public,turf,132.0,129.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,48000.0,4.0
+892.0,Police Ground Matara,Matara,Matara,Southern,Public,turf,131.0,128.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,47000.0,4.0
+893.0,Police Ground Negombo,Negombo,Gampaha,Western,Public,turf,131.0,127.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,46000.0,4.0
+894.0,Sri Lanka Navy Ground Trincomalee,Trincomalee,Trincomalee,Eastern,Public,turf,132.0,129.0,Yes,Yes,Yes,Yes,Yes,2.0,170.0,50000.0,4.0
+895.0,Sri Lanka Air Force Ground Ekala,Ekala,Gampaha,Western,Public,turf,134.0,132.0,Yes,Yes,Yes,Yes,Yes,2.0,180.0,54000.0,4.0
+896.0,University of Kelaniya Cricket Ground,Kelaniya,Gampaha,Western,Public,matting,120.0,118.0,No,Yes,Yes,No,No,1.0,120.0,25000.0,3.0
+897.0,University of Sri Jayewardenepura Ground,Nugegoda,Colombo,Western,Public,matting,120.0,118.0,No,Yes,Yes,No,No,1.0,110.0,24000.0,3.0
+898.0,University of Ruhuna Ground,Matara,Matara,Southern,Public,matting,119.0,117.0,No,Yes,Yes,No,No,1.0,100.0,23000.0,3.0
+899.0,University of Peradeniya Upper Ground,Peradeniya,Kandy,Central,Public,turf,128.0,125.0,Yes,Yes,Yes,Yes,Yes,2.0,140.0,32000.0,4.0
+900.0,Rajarata University Ground,Mihintale,Anuradhapura,NC,Public,matting,118.0,116.0,No,Yes,Yes,No,No,1.0,100.0,22000.0,3.0
+901.0,Wayamba University Ground,Kuliyapitiya,Kurunegala,NW,Public,matting,118.0,116.0,No,Yes,Yes,No,No,1.0,100.0,22000.0,3.0
+902.0,Eastern University Ground,Vantharumoolai,Batticaloa,Eastern,Public,matting,118.0,116.0,No,Yes,Yes,No,No,1.0,90.0,21000.0,3.0
+903.0,Jaffna University Ground,Jaffna,Jaffna,Northern,Public,matting,118.0,116.0,No,Yes,Yes,No,No,1.0,90.0,21000.0,3.0
+904.0,South Eastern University Ground,Oluvil,Ampara,Eastern,Public,matting,118.0,116.0,No,Yes,Yes,No,No,1.0,90.0,21000.0,3.0
+905.0,Kalutara Municipal Sports Ground,Kalutara,Kalutara,Western,Public,turf,130.0,127.0,Yes,Yes,Yes,Yes,Yes,2.0,160.0,42000.0,4.0
+906.0,Panadura Municipal Cricket Ground,Panadura,Kalutara,Western,Public,turf,130.0,126.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,41000.0,4.0
+907.0,Gampaha Urban Council Ground,Gampaha,Gampaha,Western,Public,turf,128.0,125.0,Yes,Yes,Yes,Yes,Yes,2.0,140.0,39000.0,4.0
+908.0,Negombo Urban Council Ground,Negombo,Gampaha,Western,Public,turf,128.0,124.0,Yes,Yes,Yes,Yes,Yes,2.0,140.0,38000.0,4.0
+909.0,Moratuwa Urban Council Ground,Moratuwa,Colombo,Western,Public,turf,130.0,126.0,Yes,Yes,Yes,Yes,Yes,2.0,150.0,40000.0,4.0
+910.0,Ratnapura Municipal Ground,Ratnapura,Ratnapura,Sabaragamuwa,Public,turf,128.0,125.0,Yes,Yes,Yes,Yes,Yes,2.0,140.0,37000.0,4.0
+911.0,Kegalle Municipal Ground,Kegalle,Kegalle,Sabaragamuwa,Public,turf,128.0,125.0,Yes,Yes,Yes,Yes,Yes,2.0,130.0,36000.0,4.0
+912.0,Badulla Municipal Ground,Badulla,Badulla,Uva,Public,turf,127.0,124.0,Yes,Yes,Yes,Yes,Yes,2.0,130.0,35000.0,4.0
+913.0,Bandarawela Municipal Ground,Bandarawela,Badulla,Uva,Public,turf,127.0,124.0,Yes,Yes,Yes,Yes,Yes,2.0,120.0,34000.0,4.0
+914.0,Monaragala District Ground,Monaragala,Monaragala,Uva,Public,matting,118.0,116.0,No,Yes,Yes,No,No,1.0,100.0,22000.0,3.0
+914.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+915.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+916.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+917.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+918.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+919.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+920.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+921.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+922.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+923.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+924.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+925.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+926.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+927.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+928.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+929.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+930.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+931.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+932.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+933.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+934.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+935.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+936.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+937.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+938.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+939.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+940.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+941.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+942.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+943.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+944.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+945.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+946.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+947.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+948.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+949.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+950.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+951.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+952.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+953.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+954.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+955.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+956.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+957.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+958.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+959.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+960.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+961.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+962.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+963.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+964.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+965.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+966.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+967.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+968.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+969.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+970.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+971.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+972.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+973.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+974.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+975.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+976.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+977.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+978.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+979.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+980.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+981.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+982.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+983.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+984.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+985.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+986.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+987.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+988.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+989.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+990.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+991.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+992.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+993.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+994.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+995.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+996.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+997.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+998.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+999.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1000.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1001.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1002.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1003.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1004.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1005.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1006.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1007.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1008.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1009.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1010.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1011.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1012.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1013.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1014.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1015.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1016.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1017.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1018.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1019.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1020.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1021.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1022.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1023.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1024.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1025.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1026.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1027.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1028.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1029.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1030.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1031.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1032.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1033.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1034.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1035.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
+1036.0,Puttalam Urban Council Ground,Puttalam,Puttalam,North Western,Public,matting,112.0,109.0,No,Yes,Yes,No,Yes,1.0,13.0,7572.0,2.0
